@@ -1,0 +1,43 @@
+language: "en"
+pipeline:
+- name: "nlp_spacy"
+  model: "en_core_web_md"
+  case_sensitive: True
+- name: "intent_featurizer_spacy"
+- name: "intent_featurizer_ngrams"
+  max_number_of_ngrams: 7
+# - name: "intent_featurizer_count_vectors"
+  # analyser: 'char_wb'
+  # strip_accents: {'ascii', 'unicode', None}
+  # stop_words : string {‘english’}
+  # min_ngram: 2
+  # max_ngram: 5
+# - name: "intent_classifier_sklearn"
+- name: "intent_classifier_tensorflow_embedding"
+- name: "tokenizer_spacy"
+# - name: "tokenizer_whitespace"
+- name: "intent_entity_featurizer_regex"
+- name: "ner_synonyms"
+- name: "ner_crf"
+  # features: [["low", "title"], ["bias", "suffix3"], ["upper", "pos", "pos2"]]
+  # BILOU_flag: False
+  # max_iterations: 200
+  # L1_c: 0.1
+  # L2_c: 0.1
+# - name: "ner_spacy"
+- name: ner_duckling_http
+  url: http://localhost:8000
+  dimensions:
+  - time
+  - email
+  - phone-number
+  - durations
+  locale: "en_IN"
+  timezone: "Asia/Kolkata"
+policies:
+  - name: KerasPolicy
+    epochs: 200
+    max_history: 4
+  - name: MemoizationPolicy
+    max_history: 4
+  - name: "FormPolicy"

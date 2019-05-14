@@ -1,0 +1,2 @@
+model_checkpoint_path: "/app/models/default/current/component_3_EmbeddingIntentClassifier.ckpt"
+all_model_checkpoint_paths: "/app/models/default/current/component_3_EmbeddingIntentClassifier.ckpt"

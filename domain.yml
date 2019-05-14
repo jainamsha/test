@@ -1,0 +1,206 @@
+%YAML 1.1
+---
+intents:
+- greet
+- job
+- contact
+- thanks
+- aboutOwners
+- Yellowstory
+- asktime
+# - intern
+- aboutYellowCulture
+- companyLocation
+- whyYellow
+- client
+- chitchat
+- aboutBot
+- aboutCompany
+- askProjects
+- assistance
+- askdate
+- affirm
+- goodbye
+- joke
+- deny
+- stop
+- default_fallback
+
+actions:
+- action_ask_job
+- utter_noworries
+- action_slot_reset
+- utter_ask_phone-number
+- utter_yellowstory
+- utter_job
+- action_time
+- utter_mypleasure
+- utter_aboutCompany
+- action_client
+- utter_default
+- utter_ask_when
+- utter_ask_name
+- action_default
+- action_date
+- action_show_projects
+- action_intern
+- utter_aboutOwners
+- utter_whyYellow
+- utter_goodbye
+- utter_ask_skills
+- utter_companyLocation
+- utter_ask_assignment
+- utter_chitchat
+- action_job
+- reset_slots
+- utter_askProjects
+- utter_ask_again
+- utter_aboutYellowCulture
+- utter_ask_assist
+- utter_aboutBot
+- action_joke
+- utter_greet
+- utter_ask_duration
+entities:
+- PERSON
+- email
+- phone-number
+- duration
+- assignment
+- user
+- assignmentType
+- time
+- post
+- skills
+forms:
+- action_confirm
+- job_form
+- intern_form
+- client_form
+slots:
+  PERSON:
+    initial_value: master
+    type: text
+  assignment:
+    type: text
+    # values:
+    # - design
+    # - branding
+    # - icon design
+    # - illustration
+    # - logo design
+    # - identity design
+    # - svg animation
+    # - brochure design
+    # - store design
+    # - web design
+    # - website design
+    # - brand audit
+    # - graphic design
+    # - ux & ui design
+    # - ux design
+    # - ui design
+    # - interface design
+    # - visual design
+    # - icon design
+    # - illustration
+    # - svg animation
+    # - packaging design
+    # - web design
+    # - website design
+    # - app design
+    # - software design
+    # - ux audit
+    # - ux research
+    # - ux strategy
+    # - interaction design
+    # - brand designs
+  assignmentType:
+    type: categorical
+    values:
+    - ux/ui design
+    - brand design
+  duration:
+    type: categorical
+    values:
+    - 1 month
+    - 4 months
+    - 6 months
+  email:
+    type: text
+  phone-number:
+    max_value: 1.0
+    min_value: 0.0
+    type: float
+  # requested_slot:
+    # type: unfeaturized
+  post:
+    type: text
+
+  skills:
+    type: text
+    # values:
+    # # - ui design
+    # # - branding
+    # # - brand design
+    # # - designing
+    # # - designer
+    # # - ux design
+  user:
+    initial_value: wonderer
+    type: text
+    # values:
+    # - intern
+    # - job_applicant
+    # - client
+    # - employee
+    # - wonderer
+templates:
+  utter_aboutBot:
+  - text: Glad you asked! i'm Yellow 2.0 an intent specific ML bot and you can call me Yellow 2.0 😎
+  utter_aboutCompany:
+  - text: We're a Designing and Branding studio.
+  utter_aboutOwners:
+  - text: The Company was co-founded by Mr. Kishor Fogla and Mr. Sunny Padiyar
+  utter_aboutYellowCulture:
+  - text: Damn you know what? do check out our culture page at www.yellowslice.in/culture
+      ! We do have like so much fun here!!
+  utter_ask_again:
+  - text: My bad! lets StartOver!
+  utter_ask_assignment:
+  - text: I might need know what kind of project you need help with.
+  utter_ask_assist:
+  - text: So how may i help you ?
+  utter_ask_duration:
+  - text: We have 1/4/6 month(s) internship durations, what'd u like?
+  utter_ask_email:
+  - text: can you provide me with a valid email address Please?
+  utter_ask_name:
+  - text: Can i have your name though?
+  utter_ask_phone-number:
+  - text: Please provide us with a valid mobile number!
+  utter_ask_skills:
+  - text: We do Brand Designs and UX/UI designs, what skill are you looking for?
+  utter_ask_when:
+  - text: what time would you like ?
+  utter_chitchat:
+  - text: I'd love to chitchat, but my sole purpose is to provide help! {PERSON}.
+  utter_companyLocation:
+  - text: Yea thiss'll lead you here ! https://goo.gl/maps/bF2pHpAMgY62
+  utter_default:
+  - text: I'm sorry i couldnt get that 😅, but maybe you can rephrase for me?
+  utter_goodbye:
+  - text: goodbye, Pleasure serving you!
+  utter_greet:
+  - text: Hey! hope you havin a good day.
+  utter_mypleasure:
+  - text: dont mention! its been my pleasure, serving!
+  utter_whyYellow:
+  - text: We like the colour Yellow and slicing up things so its YellowSlice 🤓
+  utter_yellowstory:
+  - text: We started around 5 years ago to use design as a tool To make a smarter
+      planet with designs..
+  utter_noworries:
+  - text: Oh no Worrys id rather forget it all and start over 😉.
+  utter_ask_post:
+  - text: alright ! what kind of post do you have in mind?

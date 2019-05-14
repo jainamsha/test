@@ -1,0 +1,184 @@
+## intent:Yellowstory
+- whats your story?
+- tell me your story
+- whats your motto
+- tell me about your company's story
+- whats the companys story
+- tell me more about yellowslice's story
+- Tell me the story of inception of Yellow Slice?
+- What is the idea that came to your mind while starting a design studio?
+- tell me the company's history
+- i would like to know about your company and its Story
+- what do you believe
+- how did you start
+- whats the story behind your company
+- tell me more about the yellow story
+- company story
+
+## intent:companyLocation
+- wheres your company located
+- whats location you at?
+- wheres your company?
+- how do i get to yellow slice
+- whats the companys address?
+- wheres the company?
+- can i know the location of your office
+- tell me your office location
+- where is yellow slice again?
+- address
+- location company
+
+## intent:aboutYellowCulture
+- tell me what you guys do at the office
+- tell me about your culture
+- are your bosses good?
+- So are you guys fun?
+- do  you guys have workshops?
+- so you do any kind of activities?
+- do you people have fun?
+- whats the work culture like?
+- what kind of culture do you guys follow at the office?
+- what kind of culture do you guys follow at work?
+- work culture
+- what is the design culture like
+- do you guys have lotta fun?
+- what activities do you guys do?
+- do you guys do anything except work?
+- what extra activities do u guys do?
+- tell me about office life
+- workshops
+
+## intent:whyYellow
+- what inspires the name?
+- any story for the name?
+- why yellowslice?
+- why yellow?
+- why yellow slice?
+- whys the company named yellowslice
+- what does the name mean?
+- what does yellow slice even mean
+- why is it yellow slice?
+- what gives your company that name
+- what do u mean by yellow slice
+- can you explain that name?
+- does your name even mean anything ?
+- what makes you call it Yellow Slice?
+- name yellow slice
+- why this name
+- any reason for this name?
+- Whats Yellow Slice?
+- why that name?
+- what does the name mean
+- what is meaning of YellowSlice
+- whats with the yellow ?
+- why are you obsessed with yellow
+
+## intent:aboutBot
+- who created you
+- what are you?
+- tell me about you
+- who are you?
+- what you made of
+- who made you?
+- what are you?
+- what kind of bot are you
+- who made you?
+- can you tell me about yourself
+- tell me about you
+- and who're you again?
+- who invented you
+- why were you invented
+- whats the purpose to make you
+- i want to know who invented you
+- May I ask who invented you?
+- please tell me what company created you
+- please tell me who created you
+- tell me more about your creators
+- what are you?
+- who made you
+- why were you made?
+- what your purpose?
+
+## intent:aboutCompany
+- tell me about your company
+- so what kind of company are you?
+- tell me about your company's foundation
+- i want to know the company which designed you
+- i want to know the company which generated you
+- i want to know the company which invented you
+- i want to get to know your company more
+- what kind of company are you
+- what does yellow slice do?
+- tell me about company
+- i want to know the company's services
+- i want to know the companys motive
+- i want to know about the companies specialities
+- i would like to know more bout your company
+- i want to know about the company that invented you
+- what kind of services do you provide?
+- what services do you have
+- what kind of work does your company do?
+- what things could your company help us with
+- what services you provide
+- services
+- can i know your companies main products
+- what all can you do
+- are you like a internet company?
+- so whats your companys speciality
+- can i know the services you provide
+- can you tell me the services you provide
+- can you be more specific about the services you provide?
+- can i know exactly what kind of projects can you help me with
+- what design services do you provide?
+- what kind of user interface services do have
+- what all services do you hold for companies
+- what services do u provide?
+- services
+- tell me about your services
+- what kind pf services do you have?
+- can ik the kind of services you provide
+- please tell me the company that created you
+- tell me about yellow slice
+- what does your company do?
+- how old is your company?
+- what kind of services do you provide
+
+## intent:aboutOwners
+- oh cool and who are the owners?
+- can i know about founders?
+- tell me about the company owners
+- who are the companys foundation
+- so who're your bosses?
+- tell me about your boss
+- can you share your boss with me?
+- i want to get to know your owner
+- do you know your boss?
+- who owns yellow slice?
+- whos the CEO of yellow slice
+- who's the CTO of your company
+- who runs the company?
+- who's your superior?
+- who's the head of the company
+- who's the face of the company?
+- who owns yellow slice?
+- who owns your company?
+
+## intent:askProjects
+- can i see some of your work
+- can i see some of your projects
+- show me some of your work
+- can i have a look at some of your past projects?
+- can you show me some of your work
+- can you show me some products youve delivered
+- can you show me something you made?
+- can i see some samples?
+- would you show me some samples
+- can i see some of your work?
+- why dont you show me some of your work
+- can you show me some of your branding project samples
+- id like to see some of your UI work
+- show me some projects
+- show me some demos
+- demo
+- can i see some of your works?
+- please show me some of your projects

@@ -1,0 +1,5 @@
+nlu:
+  url: http://localhost:5000
+
+action_endpoint:
+  url: http://localhost:5055/webhook

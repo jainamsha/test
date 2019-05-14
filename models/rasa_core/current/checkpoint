@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/JAE/Desktop/yellowslice/yello/YELLOBOT/dockerstuff/models/rasa_nlu/default/current/intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "/Users/JAE/Desktop/yellowslice/yello/YELLOBOT/dockerstuff/models/rasa_nlu/default/current/intent_classifier_tensorflow_embedding.ckpt"

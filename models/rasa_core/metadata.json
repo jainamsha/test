@@ -1,0 +1,119 @@
+{
+  "action_fingerprints": {
+    "action_listen": {
+      "slots": [
+        "assignment",
+        "user",
+        "post"
+      ]
+    },
+    "action_client": {
+      "slots": [
+        "user"
+      ]
+    },
+    "client_form": {
+      "slots": [
+        "requested_slot",
+        "user"
+      ]
+    },
+    "action_show_projects": {
+      "slots": []
+    },
+    "action_confirm": {
+      "slots": [
+        "email",
+        "phone-number",
+        "requested_slot"
+      ]
+    },
+    "action_ask_job": {
+      "slots": [
+        "user"
+      ]
+    },
+    "action_job": {
+      "slots": [
+        "user"
+      ]
+    },
+    "job_form": {
+      "slots": [
+        "requested_slot",
+        "user"
+      ]
+    },
+    "utter_ask_assist": {
+      "slots": []
+    },
+    "utter_yellowstory": {
+      "slots": []
+    },
+    "utter_ask_again": {
+      "slots": []
+    },
+    "utter_chitchat": {
+      "slots": []
+    },
+    "utter_noworries": {
+      "slots": []
+    },
+    "utter_aboutBot": {
+      "slots": []
+    },
+    "utter_mypleasure": {
+      "slots": []
+    },
+    "utter_aboutYellowCulture": {
+      "slots": []
+    },
+    "utter_aboutOwners": {
+      "slots": []
+    },
+    "action_date": {
+      "slots": []
+    },
+    "utter_goodbye": {
+      "slots": []
+    },
+    "utter_companyLocation": {
+      "slots": []
+    },
+    "action_time": {
+      "slots": []
+    },
+    "action_explain": {
+      "slots": []
+    },
+    "utter_whyYellow": {
+      "slots": []
+    },
+    "utter_aboutCompany": {
+      "slots": []
+    },
+    "action_joke": {
+      "slots": []
+    }
+  },
+  "python": "3.6.8",
+  "max_histories": [
+    5,
+    null,
+    5,
+    2,
+    5
+  ],
+  "ensemble_name": "rasa_core.policies.ensemble.SimplePolicyEnsemble",
+  "policy_names": [
+    "rasa_core.policies.keras_policy.KerasPolicy",
+    "rasa_core.policies.fallback.FallbackPolicy",
+    "rasa_core.policies.memoization.MemoizationPolicy",
+    "rasa_core.policies.form_policy.FormPolicy",
+    "rasa_core.policies.mapping_policy.MappingPolicy"
+  ],
+  "trained_at": "20190514-071235",
+  "rasa_core": "0.14.3",
+  "tensorflow": "1.13.1",
+  "sklearn": "0.20.2"
+}

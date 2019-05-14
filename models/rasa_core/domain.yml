@@ -1,0 +1,205 @@
+%YAML 1.1
+---
+actions:
+- action_ask_job
+- utter_noworries
+- action_slot_reset
+- utter_ask_phone-number
+- utter_yellowstory
+- utter_job
+- action_time
+- utter_mypleasure
+- utter_aboutCompany
+- action_client
+- utter_default
+- utter_ask_when
+- utter_ask_name
+- action_default
+- action_date
+- action_show_projects
+- action_intern
+- utter_aboutOwners
+- utter_whyYellow
+- utter_goodbye
+- utter_ask_skills
+- utter_companyLocation
+- utter_ask_assignment
+- utter_chitchat
+- action_job
+- reset_slots
+- utter_askProjects
+- utter_ask_again
+- utter_aboutYellowCulture
+- utter_ask_assist
+- utter_aboutBot
+- action_joke
+- utter_greet
+- action_explain
+- utter_ask_duration
+config:
+  store_entities_as_slots: true
+entities:
+- PERSON
+- email
+- phone-number
+- duration
+- assignment
+- user
+- assignmentType
+- time
+- post
+- skills
+forms:
+- action_confirm
+- job_form
+- intern_form
+- client_form
+intents:
+- greet:
+    use_entities: true
+- job:
+    use_entities: true
+- contact:
+    use_entities: true
+- thanks:
+    use_entities: true
+- aboutOwners:
+    use_entities: true
+- Yellowstory:
+    use_entities: true
+- asktime:
+    use_entities: true
+- aboutYellowCulture:
+    use_entities: true
+- companyLocation:
+    use_entities: true
+- whyYellow:
+    use_entities: true
+- client:
+    use_entities: true
+- chitchat:
+    use_entities: true
+- aboutBot:
+    use_entities: true
+- aboutCompany:
+    use_entities: true
+- askProjects:
+    use_entities: true
+- assistance:
+    use_entities: true
+- askdate:
+    use_entities: true
+- affirm:
+    use_entities: true
+- explain:
+    use_entities: true
+- goodbye:
+    use_entities: true
+- joke:
+    use_entities: true
+- deny:
+    use_entities: true
+- stop:
+    use_entities: true
+- default_fallback:
+    use_entities: true
+slots:
+  PERSON:
+    auto_fill: true
+    initial_value: master
+    type: rasa_core.slots.TextSlot
+  assignment:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  assignmentType:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.CategoricalSlot
+    values:
+    - ux/ui design
+    - brand design
+  duration:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.CategoricalSlot
+    values:
+    - 1 month
+    - 4 months
+    - 6 months
+  email:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  phone-number:
+    auto_fill: true
+    initial_value: null
+    max_value: 1.0
+    min_value: 0.0
+    type: rasa_core.slots.FloatSlot
+  post:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  requested_slot:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.UnfeaturizedSlot
+  skills:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  user:
+    auto_fill: true
+    initial_value: wonderer
+    type: rasa_core.slots.TextSlot
+templates:
+  utter_aboutBot:
+  - text: Glad you asked! i'm Yellow 2.0 an intent specific ML bot and you can call
+      me Yellow 2.0 😎
+  utter_aboutCompany:
+  - text: We're a Designing and Branding studio.
+  utter_aboutOwners:
+  - text: The Company was co-founded by Mr. Kishor Fogla and Mr. Sunny Padiyar
+  utter_aboutYellowCulture:
+  - text: Damn you know what? do check out our culture page at www.yellowslice.in/culture
+      ! We do have like so much fun here!!
+  utter_ask_again:
+  - text: My bad! lets StartOver!
+  utter_ask_assignment:
+  - text: I might need know what kind of project you need help with.
+  utter_ask_assist:
+  - text: So how may i help you ?
+  utter_ask_duration:
+  - text: We have 1/4/6 month(s) internship durations, what'd u like?
+  utter_ask_email:
+  - text: can you provide me with a valid email address Please?
+  utter_ask_name:
+  - text: Can i have your name though?
+  utter_ask_phone-number:
+  - text: Please provide us with a valid mobile number!
+  utter_ask_post:
+  - text: alright ! what kind of post do you have in mind?
+  utter_ask_skills:
+  - text: We do Brand Designs and UX/UI designs, what skill are you looking for?
+  utter_ask_when:
+  - text: what time would you like ?
+  utter_chitchat:
+  - text: I'd love to chitchat, but my sole purpose is to provide help! {PERSON}.
+  utter_companyLocation:
+  - text: Yea thiss'll lead you here ! https://goo.gl/maps/bF2pHpAMgY62
+  utter_default:
+  - text: I'm sorry i couldnt get that 😅, but maybe you can rephrase for me?
+  utter_goodbye:
+  - text: goodbye, Pleasure serving you!
+  utter_greet:
+  - text: Hey! hope you havin a good day.
+  utter_mypleasure:
+  - text: dont mention! its been my pleasure, serving!
+  utter_noworries:
+  - text: Oh no Worrys id rather forget it all and start over 😉.
+  utter_whyYellow:
+  - text: We like the colour Yellow and slicing up things so its YellowSlice 🤓
+  utter_yellowstory:
+  - text: We started around 5 years ago to use design as a tool To make a smarter
+      planet with designs..

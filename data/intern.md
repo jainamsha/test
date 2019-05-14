@@ -1,0 +1,47 @@
+## intent:intern
+- internship
+- intern
+- student
+- university
+- i am looking for experience work
+- i am looking to work for experience work
+- hey i am looking for an internship
+- [designing](skills)
+- im finding a internship
+- [ui design(skills)
+
+- [6 months](duration)
+- [designer](skills)
+- im looking for an internship
+- [ux design](skills)
+- [4 months](duration)
+- im looking for n internship
+- [Brand design](skills)
+- [1 months](duration)
+- i need experience work
+- hey i am looking for n internship
+- [designing](skills)
+- im finding n internship
+- [ux design](skills)
+- [1 months](duration)
+- [ui design](skills)
+- im looking for an internship
+- [brand design](skills)
+- [1 months](duration)
+- [designer](skills)
+- [4 months](duration)
+- yea i am a [designer](skills)
+- i am into [designing](skills)
+- i am into [ui design](skills)
+- i do [ux design](skills)
+- i do [Brand design](skills)
+- my thing is [branding](skills)
+- internship
+- i do [brand design](skills)
+- yea for [branding](skills)
+- i want an internship for [branding](skills)
+- [branding](skills)
+- im looking for a internship as a [designer](skills)
+- seat for interns
+- vacancy for internship
+- do you guys hire [interns](user)

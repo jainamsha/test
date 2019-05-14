@@ -1,0 +1,140 @@
+## intent:client
+- [Icon Design](assignment)
+- [Illustration](assignment)
+- [Branding](assignment)
+- [Logo Design](assignment)
+- [Identity Design](assignment)
+- [Svg animation](assignment)
+- [Brochure Design](assignment)
+- [Store Design](assignment)
+- [Web Design](assignment)
+- [Website Design](assignment)
+- [Brand Audit](assignment)
+- [Graphic Design](assignment)
+- [UX & UI Design](assignment)
+- [UX Design](assignment)
+- [UI Design](assignment)
+- [Visual Design](assignment)
+- [Icon Design](assignment)
+- [Illustration](assignment)
+- [Svg animation](assignment)
+- [Packaging Design](assignment)
+- [Web Design](assignment)
+- [Website Design](assignment)
+- [App Design](assignment)
+- [Software Design](assignment)
+- [UX Audit](assignment)
+- [UX Research](assignment)
+- [UX Strategy](assignment)
+- [Interaction Design](assignment)
+- umm [branding](assignment) i guess
+- [client](user)
+- no im a [client](user)
+- give you a project
+- i'd like to use services you provide
+- looking for a project development
+- can you help me with my [app](assignment)
+- i have an assignment for you
+- i have a job for you
+- can you do a job for me?
+- its an [app design](assignment)
+- make me a [website design](assignment)
+- change my [ui/ux](assignment)
+- i need help with [branding](assignment)
+- ill need assistance with [logo branding](assignment)
+- well be looking for help with [logo design](assignment)
+- we're looking forward for an [ux](assignment) design
+- so can you assist us with [ui](assignment) design
+- are you guys into [branding](assignment)?
+- [brand](assignment) me
+- [branding](assignment)
+- [brands design](assignment)
+- im a client
+- help me with a project
+- im looking for some help with [logo design](assignment)
+- i need a job done
+- i need my [logo designed](assignment)
+- i have some requirements you could fullfil
+- can you do a job for me?
+- just do a job for me
+- i have to get a [website](assignment) made
+- can i get my [website designed](assignment) ?
+- can you make a [mobile app](assignment) for me?
+- do you make [apps](assignment)?
+- can i get an [application](assignment) made?
+- are you good at making an [app](assignment)?
+- my company needs help with [logo designing](assignment)
+- can you do [brand designing] for my company?
+- help us with [svg animation](assignment)
+- could use some help with [ui design](assignment)
+- i need a new [ux design](assignment) for my website
+- my [websites](assignment) interface is old can you make me a new one?
+- my app [icon](assignment) needs to be changed.
+- i would like you to do this [branding](assignment) job for me.
+- [icon design](assignment)
+- [illustration](assignment)
+- [branding](assignment)
+- [logo design](assignment)
+- [identity design](assignment)
+- [svg animation](assignment)
+- [brochure design](assignment)
+- [store design](assignment)
+- [web design](assignment)
+- [website design](assignment)
+- [brand audit](assignment)
+- [graphic design](assignment)
+- [ux & ui design](assignment)
+- [ux design](assignment)
+- [ui design](assignment)
+- [visual design](assignment)
+- [icon design](assignment)
+- [illustration](assignment)
+- [svg animation](assignment)
+- [packaging design](assignment)
+- [web design](assignment)
+- [website design](assignment)
+- [app design](assignment)
+- [software design](assignment)
+- [ux audit](assignment)
+- [ux research](assignment)
+- [ux strategy](assignment)
+- [interaction design](assignment)
+- umm [branding](assignment) i guess
+- [icon design](assignment)
+- [illustration](assignment)
+- [branding](assignment)
+- [logo design](assignment)
+- [identity design](assignment)
+- [svg animation](assignment)
+- [brochure design](assignment)
+- [store design](assignment)
+- [web design](assignment)
+- [website design](assignment)
+- [brand audit](assignment)
+- [graphic design](assignment)
+- [ux & ui design](assignment)
+- [ux design](assignment)
+- [ui design](assignment)
+- [visual design](assignment)
+- [icon design](assignment)
+- [illustration](assignment)
+- [svg animation](assignment)
+- [packaging design](assignment)
+- [web design](assignment)
+- [website design](assignment)
+- [app design](assignment)
+- [software design](assignment)
+- [ux audit](assignment)
+- [ux research](assignment)
+- [ux strategy](assignment)
+- [interaction design](assignment)
+- umm [branding](assignment) i guess
+- [logo Designs](assignment)
+- [logo designed](assignment)
+- [logos designed](assignment)
+- [brand design](assignment)
+- [brands design](assignment)
+- [brand Designs](assignment)
+- [svg animations](assignment)
+- [animations](assignment)
+- [audit](assignment)

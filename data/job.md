@@ -1,0 +1,156 @@
+## intent:job
+- [job](user)
+- i am looking for work
+- i am looking to get a [job](user)
+- i need [job](user)
+- are you recruiting
+- would you hire me?
+- are you hiring?
+- is there any vacancy
+- i am a [brand designs](skills) professional for hire
+- do you have any vacancy?
+- im looking for a [designing](skills) [job](user)
+- actually i was looking for work
+- i would like to work for you
+- im looking for [job](user)
+- is there any post open?
+- do you have any posts open for a [brand designer](skills)
+- i look for [job](user)
+- i need [job](user)
+- Are you hiring
+- looking for any [job applicant](user?
+- can i fill your vacancy
+- would you be recruiting anytime soon?
+- are you guys looking for a [designer](skills)?
+- [brands design](skills)
+- yea a [job](user) in [brand designs](skills)
+- i am looking into [job](user) for [branding](skills)
+- i am into [ui design](skills)
+- i do [ux design](skills)
+- i am into [ui designs](skills)
+- i do [ux designs](skills)
+- i do [brand design](skills)
+- my thing is [designing](skills)
+- yea for [brands](skills)
+- [brand](skills)
+- i want a [job](user) for [branding design](skills)
+- [branding designs](skills)
+- im looking for a [job](user) as a [designer](skills)
+- do you have any vacancies for [logo designer](skills) ?
+- vacancies for [job](user)
+- [internship](user)
+- [intern](user)
+- student
+- university
+- i am looking for experience work
+- i am looking to work for experience work
+- hey i am looking for an [internship](user)
+- [designing](skills)
+- im finding a [internship](user)
+- [ui design(skills)
+- [6 months](duration)
+- [designer](skills)
+- im looking for an [internship](user)
+- [ux design](skills)
+- [4 months](duration)
+- im looking for n [internship](user)
+- [Brand design](skills)
+- [1 months](duration)
+- i need experience work
+- hey i am looking for n [internship](user)
+- [designing](skills)
+- im finding n [internship](user)
+- [ux design](skills)
+- ok so can i get a job?
+- im into [Brand Design](skills
+- im looking for a [job](user) do u have any vacany?
+- [ui design](skills)
+- hi do you hire interns?
+- [ux/ui design](skills)
+- [1 month](duration)
+- [1 months](duration)
+- [ui design](skills)
+- im looking for an [internship](user)
+- [brand design](skills)
+- [1 months](duration)
+- [designer](skills)
+- [4 months](duration)
+- yea i am a [designer](skills)
+- i am into [designing](skills)
+- i am into [ui design](skills)
+- i do [ux design](skills)
+- i do [Brand design](skills)
+- my thing is [branding](skills)
+- [internship](user)
+- i do [brand design](skills)
+- yea for [branding](skills)
+- i want an [internship](user) for [branding](skills)
+- [branding](skills)
+- im looking for a [internship](user) as a [designer](skills)
+- seat for [interns](user)
+- vacancy for [internship](user)
+- do you guys hire [interns](user)
+- can you give me a [job](user)
+- can you provide me a [job](user)
+- i there a [job](user) for me?
+- i would like to work at yellow slice
+- [intern](user)
+- [intern](user)
+- [intern](user)
+- [intern](user)
+- [internship](user)
+- [internship](user)
+- [internship](user)
+- [internship](user)
+- yea a [job](user) maybe
+- do you have [internships](user)?
+- an [internship](user)
+- you have [internships](user)?
+- [branding](skills)
+- [Brands design](post)
+- [branding design](post)
+- [UX Designer](post)
+- [UX Lead](post)
+- [UI Designer](post)
+- [UI Lead](post)
+- [Graphic Designer](post)
+- [Brand Lead](post)
+- [Design Director](post)
+- [Illustrator](post)
+- [3D Artist](post)
+- [Product Manager](post)
+- [Content Writer](post)
+- [Business Development Manager](post)
+- [HTML Developer](post)
+- [PHP Developer](post)
+- [Animator](post)
+- [Accounts executive](post)
+- [Project Manager](post)
+- [Office boy](post)
+- [Psychologist](post)
+- yea a [job](user) maybe
+- do you have [internships](user)?
+- an [internship](user)
+- you have [internships](user)?
+- [branding](skills)
+- [Brands design](post)
+- [branding design](post)
+- [UX Designer](post)
+- [UX Lead](post)
+- [UI Designer](post)
+- [UI Lead](post)
+- [Graphic Designer](post)
+- [Brand Lead](post)
+- [Design Director](post)
+- [Illustrator](post)
+- [3D Artist](post)
+- [Product Manager](post)
+- [Content Writer](post)
+- [Business Development Manager](post)
+- [HTML Developer](post)
+- [PHP Developer](post)
+- [Animator](post)
+- [Accounts executive](post)
+- [Project Manager](post)
+- [Office boy](post)
+- [Psychologist](post)

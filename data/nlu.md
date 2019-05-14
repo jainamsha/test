@@ -1,0 +1,321 @@
+
+## intent:affirm
+- correct
+- yea
+- uh yes
+- sure let's do it
+- yeah
+- oh yes
+- why not
+- yes knocking
+- fo sho
+- for sure
+- that's correct
+- yes yes
+- right
+- yea definitly
+- yes id like that
+- yes right
+- yes and i dont care
+- right on
+- id love that
+- fo sho
+- fr
+- for real
+- yea man sure thing
+- yo
+- gotcha
+- sure
+- why not
+- i like it
+- cool
+- id appreaciate
+
+
+## intent:assistance
+- i need some help
+- can u help me?
+- i was looking for help
+- can help me out ?
+- can you help me out ?
+- please help me
+- hey help me out
+- can you look up for me
+- hey help?
+- can you assist me
+- help needed!
+- i need help
+- be helpful
+- be useful
+- can u assist?
+- okay so help me?
+
+## intent:chitchat
+- bet ya ass i am
+- sup
+- what's up?
+- wssup
+- Ahoy matey how are you?
+- are you alright
+- are you having a good day
+- Are you ok?
+- are you okay
+- Do you feel good?
+- how are things going
+- how are things with you?
+- How are things?
+- how are you
+- how are you doing
+- how are you doing this morning
+- how are you feeling
+- how are you today
+- How are you?
+- How is the weather today?
+- What's the weather like?
+- How is the weather?
+- What is the weather at your place?
+- What's it like out there?
+- Beautiful day, isn't it?
+- What's the weather forecast?
+- Is it quite breezy outside?
+- im great wssup w you ?
+- im bored
+
+
+## intent:contact
+- [99483904704](phone-number)
+- [djsiand@gmail.com](email)
+- [76969686969](phone-number)
+- [shaion@gmail.com](email)
+- [87879798789](phone-number)
+- [dirwfgiu@emial.com](email)
+- @gmail.com
+- @yahoo.com
+- @rediff.com
+- @linkedin.com
+- @
+- [8787989757](phone-number)
+- [sjaijanso78@yahoo.com](email)
+
+## intent:deny
+- decline
+- no
+- no selection
+- no thanks
+- no thank you
+- no
+- breath no
+- that wont work for me
+- no this does not work for me
+- nah
+- thanks for asking but no
+- im afraid, no
+- i might bail on that
+- no need
+- fuck off
+- neh
+- never
+- not interested
+- dont now
+- nope
+- wont
+- no never mind
+- nope
+- let it be
+- chuck it
+- ok then you cant help me
+- its okay
+- not really
+- that was shit, you're not helping
+- you can't help me
+- you can't help me with what i need
+- i guess you can't help me then
+- ok i guess you can't help me
+- that's not what i want
+- ok, but that doesnt help me
+- this is leading to nothing
+- this conversation is not really helpful
+- you cannot help me with what I want
+- I think you cant help me
+- hm i don't think you can do what i want
+
+<!-- ## intent:explain
+- elaborate
+- explain
+- details
+- please elaborate
+- can i know what for?
+- why?
+- and why?
+- can you explain
+- what skills do you need?
+- what kind of projects can you do?
+- what can i choose from?
+- can i know the options?
+- what else do you need?
+- what do you need
+- why not?
+- why ?
+- would you like to elaborate?
+- elaborate
+- explain
+- samjao
+- sorry?
+- excuse me ?
+- whats that for? -->
+
+## intent:goodbye
+- fuck you
+- fuck off
+- u suck
+- get lost
+- fuck your mom
+- no need
+- i am done bye
+- bleh
+- fuck it
+- nvm
+- go
+- stop go back
+- do you get anything?
+- and you call yourself bot company? pff
+- and that's it?
+- nothing else?
+- okay bye
+- ok bye
+- ok you bore me bye
+- ok ok stop now
+- stop
+- bye
+- me go
+
+## intent:greet
+- Hi
+- heyya
+- [a-zA-Z](PERSON)
+- [pablo](PERSON)
+- [a-zA-Z](PERSON) is my name
+- you better call me [a-zA-Z](PERSON)
+- im known as [a-zA-Z](PERSON)
+- hello im [a-zA-Z](PERSON)
+- im [a-zA-Z](PERSON)
+- my friends call me [a-zA-Z](PERSON)
+- my name is [a-zA-Z](PERSON)
+- you can call me [a-zA-Z](PERSON)
+- call me [a-zA-Z](PERSON)
+- my parents named me [a-zA-Z](PERSON)
+- im born to be known as [a-zA-Z](PERSON)
+- yo
+- wssup
+- vossup
+- wyd?
+- hola
+- supo
+- hey sucka
+- ayeh
+- listen?
+- heyyyy
+- wddup
+- oh yea sup
+- Hey
+- Hi bot
+- Hey bot
+- Hello
+- Good morning
+- hi again
+- hi folks
+- hi Mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- hello is anybody there
+- hello robot
+- hallo
+- heeey
+- hi hi
+- hey
+- hey hey
+- hello there
+- hi
+- hello
+- yo
+- hola
+- hi?
+- hey bot!
+- hello friend
+- hey
+- heyy
+- hi
+- heyoo
+- hey
+- hii sucka
+- hi
+- hii bitch
+- hii
+- call me [sunny](PERSON)
+
+
+## intent:joke
+- nothing tell me a joke
+- tell me a joke
+- haha
+- send memes
+- make me laugh
+- im bored
+- entertain me
+- please me
+- show memes
+- i like you
+- change my mood
+- do something funny for me
+- blow me
+- amuse me
+- entertain
+- joke
+- meme
+- fun
+- lmao
+- rofl
+- hehe
+- lmaooooooo
+- lol
+
+## intent:stop
+- kiss my ass
+- suck it
+- fuck it
+- i am done
+- stop
+- go back
+- no never mind
+- let it be
+- no not interested
+- bye
+- fuck off
+- back off
+- resett
+- buzz off
+- get lost
+
+## intent:thanks
+- thank you
+- okay cool, thank you
+- you rock
+- appreaciate that
+- i am so greatfull
+- my pleasure
+- thanks alot
+- thats sweet
+- thanks
+- tysm
+- ty
+- so pleased
+- i feel great now
+
+## regex:PERSON
+- [a-zA-Z](PERSON)
+
+## regex:contact
+- [\\]@[\\s].com
+- [0-9]{10}

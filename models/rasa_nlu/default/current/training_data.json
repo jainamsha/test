@@ -1,0 +1,7210 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "affirm",
+        "text": "correct"
+      },
+      {
+        "intent": "affirm",
+        "text": "yea"
+      },
+      {
+        "intent": "affirm",
+        "text": "uh yes"
+      },
+      {
+        "intent": "affirm",
+        "text": "sure let's do it"
+      },
+      {
+        "intent": "affirm",
+        "text": "yeah"
+      },
+      {
+        "intent": "affirm",
+        "text": "oh yes"
+      },
+      {
+        "intent": "affirm",
+        "text": "why not"
+      },
+      {
+        "intent": "affirm",
+        "text": "yes knocking"
+      },
+      {
+        "intent": "affirm",
+        "text": "fo sho"
+      },
+      {
+        "intent": "affirm",
+        "text": "for sure"
+      },
+      {
+        "intent": "affirm",
+        "text": "that's correct"
+      },
+      {
+        "intent": "affirm",
+        "text": "yes yes"
+      },
+      {
+        "intent": "affirm",
+        "text": "right"
+      },
+      {
+        "intent": "affirm",
+        "text": "yea definitly"
+      },
+      {
+        "intent": "affirm",
+        "text": "yes id like that"
+      },
+      {
+        "intent": "affirm",
+        "text": "yes right"
+      },
+      {
+        "intent": "affirm",
+        "text": "yes and i dont care"
+      },
+      {
+        "intent": "affirm",
+        "text": "right on"
+      },
+      {
+        "intent": "affirm",
+        "text": "id love that"
+      },
+      {
+        "intent": "affirm",
+        "text": "fo sho"
+      },
+      {
+        "intent": "affirm",
+        "text": "fr"
+      },
+      {
+        "intent": "affirm",
+        "text": "for real"
+      },
+      {
+        "intent": "affirm",
+        "text": "yea man sure thing"
+      },
+      {
+        "intent": "affirm",
+        "text": "yo"
+      },
+      {
+        "intent": "affirm",
+        "text": "gotcha"
+      },
+      {
+        "intent": "affirm",
+        "text": "sure"
+      },
+      {
+        "intent": "affirm",
+        "text": "why not"
+      },
+      {
+        "intent": "affirm",
+        "text": "i like it"
+      },
+      {
+        "intent": "affirm",
+        "text": "cool"
+      },
+      {
+        "intent": "affirm",
+        "text": "id appreaciate"
+      },
+      {
+        "intent": "assistance",
+        "text": "i need some help"
+      },
+      {
+        "intent": "assistance",
+        "text": "can u help me?"
+      },
+      {
+        "intent": "assistance",
+        "text": "i was looking for help"
+      },
+      {
+        "intent": "assistance",
+        "text": "can help me out ?"
+      },
+      {
+        "intent": "assistance",
+        "text": "can you help me out ?"
+      },
+      {
+        "intent": "assistance",
+        "text": "please help me"
+      },
+      {
+        "intent": "assistance",
+        "text": "hey help me out"
+      },
+      {
+        "intent": "assistance",
+        "text": "can you look up for me"
+      },
+      {
+        "intent": "assistance",
+        "text": "hey help?"
+      },
+      {
+        "intent": "assistance",
+        "text": "can you assist me"
+      },
+      {
+        "intent": "assistance",
+        "text": "help needed!"
+      },
+      {
+        "intent": "assistance",
+        "text": "i need help"
+      },
+      {
+        "intent": "assistance",
+        "text": "be helpful"
+      },
+      {
+        "intent": "assistance",
+        "text": "be useful"
+      },
+      {
+        "intent": "assistance",
+        "text": "can u assist?"
+      },
+      {
+        "intent": "assistance",
+        "text": "okay so help me?"
+      },
+      {
+        "intent": "chitchat",
+        "text": "bet ya ass i am"
+      },
+      {
+        "intent": "chitchat",
+        "text": "sup"
+      },
+      {
+        "intent": "chitchat",
+        "text": "what's up?"
+      },
+      {
+        "intent": "chitchat",
+        "text": "wssup"
+      },
+      {
+        "intent": "chitchat",
+        "text": "Ahoy matey how are you?"
+      },
+      {
+        "intent": "chitchat",
+        "text": "are you alright"
+      },
+      {
+        "intent": "chitchat",
+        "text": "are you having a good day"
+      },
+      {
+        "intent": "chitchat",
+        "text": "Are you ok?"
+      },
+      {
+        "intent": "chitchat",
+        "text": "are you okay"
+      },
+      {
+        "intent": "chitchat",
+        "text": "Do you feel good?"
+      },
+      {
+        "intent": "chitchat",
+        "text": "how are things going"
+      },
+      {
+        "intent": "chitchat",
+        "text": "how are things with you?"
+      },
+      {
+        "intent": "chitchat",
+        "text": "How are things?"
+      },
+      {
+        "intent": "chitchat",
+        "text": "how are you"
+      },
+      {
+        "intent": "chitchat",
+        "text": "how are you doing"
+      },
+      {
+        "intent": "chitchat",
+        "text": "how are you doing this morning"
+      },
+      {
+        "intent": "chitchat",
+        "text": "how are you feeling"
+      },
+      {
+        "intent": "chitchat",
+        "text": "how are you today"
+      },
+      {
+        "intent": "chitchat",
+        "text": "How are you?"
+      },
+      {
+        "intent": "chitchat",
+        "text": "How is the weather today?"
+      },
+      {
+        "intent": "chitchat",
+        "text": "What's the weather like?"
+      },
+      {
+        "intent": "chitchat",
+        "text": "How is the weather?"
+      },
+      {
+        "intent": "chitchat",
+        "text": "What is the weather at your place?"
+      },
+      {
+        "intent": "chitchat",
+        "text": "What's it like out there?"
+      },
+      {
+        "intent": "chitchat",
+        "text": "Beautiful day, isn't it?"
+      },
+      {
+        "intent": "chitchat",
+        "text": "What's the weather forecast?"
+      },
+      {
+        "intent": "chitchat",
+        "text": "Is it quite breezy outside?"
+      },
+      {
+        "intent": "chitchat",
+        "text": "im great wssup w you ?"
+      },
+      {
+        "intent": "chitchat",
+        "text": "im bored"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "99483904704",
+            "entity": "phone-number"
+          }
+        ],
+        "text": "99483904704"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 0,
+            "end": 17,
+            "value": "djsiand@gmail.com",
+            "entity": "email"
+          }
+        ],
+        "text": "djsiand@gmail.com"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "76969686969",
+            "entity": "phone-number"
+          }
+        ],
+        "text": "76969686969"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 0,
+            "end": 16,
+            "value": "shaion@gmail.com",
+            "entity": "email"
+          }
+        ],
+        "text": "shaion@gmail.com"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "87879798789",
+            "entity": "phone-number"
+          }
+        ],
+        "text": "87879798789"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 0,
+            "end": 18,
+            "value": "dirwfgiu@emial.com",
+            "entity": "email"
+          }
+        ],
+        "text": "dirwfgiu@emial.com"
+      },
+      {
+        "intent": "contact",
+        "text": "@gmail.com"
+      },
+      {
+        "intent": "contact",
+        "text": "@yahoo.com"
+      },
+      {
+        "intent": "contact",
+        "text": "@rediff.com"
+      },
+      {
+        "intent": "contact",
+        "text": "@linkedin.com"
+      },
+      {
+        "intent": "contact",
+        "text": "@"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "8787989757",
+            "entity": "phone-number"
+          }
+        ],
+        "text": "8787989757"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 0,
+            "end": 21,
+            "value": "sjaijanso78@yahoo.com",
+            "entity": "email"
+          }
+        ],
+        "text": "sjaijanso78@yahoo.com"
+      },
+      {
+        "intent": "deny",
+        "text": "decline"
+      },
+      {
+        "intent": "deny",
+        "text": "no"
+      },
+      {
+        "intent": "deny",
+        "text": "no selection"
+      },
+      {
+        "intent": "deny",
+        "text": "no thanks"
+      },
+      {
+        "intent": "deny",
+        "text": "no thank you"
+      },
+      {
+        "intent": "deny",
+        "text": "no"
+      },
+      {
+        "intent": "deny",
+        "text": "breath no"
+      },
+      {
+        "intent": "deny",
+        "text": "that wont work for me"
+      },
+      {
+        "intent": "deny",
+        "text": "no this does not work for me"
+      },
+      {
+        "intent": "deny",
+        "text": "nah"
+      },
+      {
+        "intent": "deny",
+        "text": "thanks for asking but no"
+      },
+      {
+        "intent": "deny",
+        "text": "im afraid, no"
+      },
+      {
+        "intent": "deny",
+        "text": "i might bail on that"
+      },
+      {
+        "intent": "deny",
+        "text": "no need"
+      },
+      {
+        "intent": "deny",
+        "text": "fuck off"
+      },
+      {
+        "intent": "deny",
+        "text": "neh"
+      },
+      {
+        "intent": "deny",
+        "text": "never"
+      },
+      {
+        "intent": "deny",
+        "text": "not interested"
+      },
+      {
+        "intent": "deny",
+        "text": "dont now"
+      },
+      {
+        "intent": "deny",
+        "text": "nope"
+      },
+      {
+        "intent": "deny",
+        "text": "wont"
+      },
+      {
+        "intent": "deny",
+        "text": "no never mind"
+      },
+      {
+        "intent": "deny",
+        "text": "nope"
+      },
+      {
+        "intent": "deny",
+        "text": "let it be"
+      },
+      {
+        "intent": "deny",
+        "text": "chuck it"
+      },
+      {
+        "intent": "deny",
+        "text": "ok then you cant help me"
+      },
+      {
+        "intent": "deny",
+        "text": "its okay"
+      },
+      {
+        "intent": "deny",
+        "text": "not really"
+      },
+      {
+        "intent": "deny",
+        "text": "that was shit, you're not helping"
+      },
+      {
+        "intent": "deny",
+        "text": "you can't help me"
+      },
+      {
+        "intent": "deny",
+        "text": "you can't help me with what i need"
+      },
+      {
+        "intent": "deny",
+        "text": "i guess you can't help me then"
+      },
+      {
+        "intent": "deny",
+        "text": "ok i guess you can't help me"
+      },
+      {
+        "intent": "deny",
+        "text": "that's not what i want"
+      },
+      {
+        "intent": "deny",
+        "text": "ok, but that doesnt help me"
+      },
+      {
+        "intent": "deny",
+        "text": "this is leading to nothing"
+      },
+      {
+        "intent": "deny",
+        "text": "this conversation is not really helpful"
+      },
+      {
+        "intent": "deny",
+        "text": "you cannot help me with what I want"
+      },
+      {
+        "intent": "deny",
+        "text": "I think you cant help me"
+      },
+      {
+        "intent": "deny",
+        "text": "hm i don't think you can do what i want"
+      },
+      {
+        "intent": "goodbye",
+        "text": "fuck you"
+      },
+      {
+        "intent": "goodbye",
+        "text": "fuck off"
+      },
+      {
+        "intent": "goodbye",
+        "text": "u suck"
+      },
+      {
+        "intent": "goodbye",
+        "text": "get lost"
+      },
+      {
+        "intent": "goodbye",
+        "text": "fuck your mom"
+      },
+      {
+        "intent": "goodbye",
+        "text": "no need"
+      },
+      {
+        "intent": "goodbye",
+        "text": "i am done bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "bleh"
+      },
+      {
+        "intent": "goodbye",
+        "text": "fuck it"
+      },
+      {
+        "intent": "goodbye",
+        "text": "nvm"
+      },
+      {
+        "intent": "goodbye",
+        "text": "go"
+      },
+      {
+        "intent": "goodbye",
+        "text": "stop go back"
+      },
+      {
+        "intent": "goodbye",
+        "text": "do you get anything?"
+      },
+      {
+        "intent": "goodbye",
+        "text": "and you call yourself bot company? pff"
+      },
+      {
+        "intent": "goodbye",
+        "text": "and that's it?"
+      },
+      {
+        "intent": "goodbye",
+        "text": "nothing else?"
+      },
+      {
+        "intent": "goodbye",
+        "text": "okay bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "ok bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "ok you bore me bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "ok ok stop now"
+      },
+      {
+        "intent": "goodbye",
+        "text": "stop"
+      },
+      {
+        "intent": "goodbye",
+        "text": "bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "me go"
+      },
+      {
+        "intent": "greet",
+        "text": "Hi"
+      },
+      {
+        "intent": "greet",
+        "text": "heyya"
+      },
+      {
+        "intent": "greet",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "a-zA-Z",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "a-zA-Z"
+      },
+      {
+        "intent": "greet",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "pablo",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "pablo"
+      },
+      {
+        "intent": "greet",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "a-zA-Z",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "a-zA-Z is my name"
+      },
+      {
+        "intent": "greet",
+        "entities": [
+          {
+            "start": 19,
+            "end": 25,
+            "value": "a-zA-Z",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "you better call me a-zA-Z"
+      },
+      {
+        "intent": "greet",
+        "entities": [
+          {
+            "start": 12,
+            "end": 18,
+            "value": "a-zA-Z",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "im known as a-zA-Z"
+      },
+      {
+        "intent": "greet",
+        "entities": [
+          {
+            "start": 9,
+            "end": 15,
+            "value": "a-zA-Z",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "hello im a-zA-Z"
+      },
+      {
+        "intent": "greet",
+        "entities": [
+          {
+            "start": 3,
+            "end": 9,
+            "value": "a-zA-Z",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "im a-zA-Z"
+      },
+      {
+        "intent": "greet",
+        "entities": [
+          {
+            "start": 19,
+            "end": 25,
+            "value": "a-zA-Z",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "my friends call me a-zA-Z"
+      },
+      {
+        "intent": "greet",
+        "entities": [
+          {
+            "start": 11,
+            "end": 17,
+            "value": "a-zA-Z",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "my name is a-zA-Z"
+      },
+      {
+        "intent": "greet",
+        "entities": [
+          {
+            "start": 16,
+            "end": 22,
+            "value": "a-zA-Z",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "you can call me a-zA-Z"
+      },
+      {
+        "intent": "greet",
+        "entities": [
+          {
+            "start": 8,
+            "end": 14,
+            "value": "a-zA-Z",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "call me a-zA-Z"
+      },
+      {
+        "intent": "greet",
+        "entities": [
+          {
+            "start": 20,
+            "end": 26,
+            "value": "a-zA-Z",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "my parents named me a-zA-Z"
+      },
+      {
+        "intent": "greet",
+        "entities": [
+          {
+            "start": 23,
+            "end": 29,
+            "value": "a-zA-Z",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "im born to be known as a-zA-Z"
+      },
+      {
+        "intent": "greet",
+        "text": "yo"
+      },
+      {
+        "intent": "greet",
+        "text": "wssup"
+      },
+      {
+        "intent": "greet",
+        "text": "vossup"
+      },
+      {
+        "intent": "greet",
+        "text": "wyd?"
+      },
+      {
+        "intent": "greet",
+        "text": "hola"
+      },
+      {
+        "intent": "greet",
+        "text": "supo"
+      },
+      {
+        "intent": "greet",
+        "text": "hey sucka"
+      },
+      {
+        "intent": "greet",
+        "text": "ayeh"
+      },
+      {
+        "intent": "greet",
+        "text": "listen?"
+      },
+      {
+        "intent": "greet",
+        "text": "heyyyy"
+      },
+      {
+        "intent": "greet",
+        "text": "wddup"
+      },
+      {
+        "intent": "greet",
+        "text": "oh yea sup"
+      },
+      {
+        "intent": "greet",
+        "text": "Hey"
+      },
+      {
+        "intent": "greet",
+        "text": "Hi bot"
+      },
+      {
+        "intent": "greet",
+        "text": "Hey bot"
+      },
+      {
+        "intent": "greet",
+        "text": "Hello"
+      },
+      {
+        "intent": "greet",
+        "text": "Good morning"
+      },
+      {
+        "intent": "greet",
+        "text": "hi again"
+      },
+      {
+        "intent": "greet",
+        "text": "hi folks"
+      },
+      {
+        "intent": "greet",
+        "text": "hi Mister"
+      },
+      {
+        "intent": "greet",
+        "text": "hi pal!"
+      },
+      {
+        "intent": "greet",
+        "text": "hi there"
+      },
+      {
+        "intent": "greet",
+        "text": "greetings"
+      },
+      {
+        "intent": "greet",
+        "text": "hello everybody"
+      },
+      {
+        "intent": "greet",
+        "text": "hello is anybody there"
+      },
+      {
+        "intent": "greet",
+        "text": "hello robot"
+      },
+      {
+        "intent": "greet",
+        "text": "hallo"
+      },
+      {
+        "intent": "greet",
+        "text": "heeey"
+      },
+      {
+        "intent": "greet",
+        "text": "hi hi"
+      },
+      {
+        "intent": "greet",
+        "text": "hey"
+      },
+      {
+        "intent": "greet",
+        "text": "hey hey"
+      },
+      {
+        "intent": "greet",
+        "text": "hello there"
+      },
+      {
+        "intent": "greet",
+        "text": "hi"
+      },
+      {
+        "intent": "greet",
+        "text": "hello"
+      },
+      {
+        "intent": "greet",
+        "text": "yo"
+      },
+      {
+        "intent": "greet",
+        "text": "hola"
+      },
+      {
+        "intent": "greet",
+        "text": "hi?"
+      },
+      {
+        "intent": "greet",
+        "text": "hey bot!"
+      },
+      {
+        "intent": "greet",
+        "text": "hello friend"
+      },
+      {
+        "intent": "greet",
+        "text": "hey"
+      },
+      {
+        "intent": "greet",
+        "text": "heyy"
+      },
+      {
+        "intent": "greet",
+        "text": "hi"
+      },
+      {
+        "intent": "greet",
+        "text": "heyoo"
+      },
+      {
+        "intent": "greet",
+        "text": "hey"
+      },
+      {
+        "intent": "greet",
+        "text": "hii sucka"
+      },
+      {
+        "intent": "greet",
+        "text": "hi"
+      },
+      {
+        "intent": "greet",
+        "text": "hii bitch"
+      },
+      {
+        "intent": "greet",
+        "text": "hii"
+      },
+      {
+        "intent": "greet",
+        "entities": [
+          {
+            "start": 8,
+            "end": 13,
+            "value": "sunny",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "call me sunny"
+      },
+      {
+        "intent": "joke",
+        "text": "nothing tell me a joke"
+      },
+      {
+        "intent": "joke",
+        "text": "tell me a joke"
+      },
+      {
+        "intent": "joke",
+        "text": "haha"
+      },
+      {
+        "intent": "joke",
+        "text": "send memes"
+      },
+      {
+        "intent": "joke",
+        "text": "make me laugh"
+      },
+      {
+        "intent": "joke",
+        "text": "im bored"
+      },
+      {
+        "intent": "joke",
+        "text": "entertain me"
+      },
+      {
+        "intent": "joke",
+        "text": "please me"
+      },
+      {
+        "intent": "joke",
+        "text": "show memes"
+      },
+      {
+        "intent": "joke",
+        "text": "i like you"
+      },
+      {
+        "intent": "joke",
+        "text": "change my mood"
+      },
+      {
+        "intent": "joke",
+        "text": "do something funny for me"
+      },
+      {
+        "intent": "joke",
+        "text": "blow me"
+      },
+      {
+        "intent": "joke",
+        "text": "amuse me"
+      },
+      {
+        "intent": "joke",
+        "text": "entertain"
+      },
+      {
+        "intent": "joke",
+        "text": "joke"
+      },
+      {
+        "intent": "joke",
+        "text": "meme"
+      },
+      {
+        "intent": "joke",
+        "text": "fun"
+      },
+      {
+        "intent": "joke",
+        "text": "lmao"
+      },
+      {
+        "intent": "joke",
+        "text": "rofl"
+      },
+      {
+        "intent": "joke",
+        "text": "hehe"
+      },
+      {
+        "intent": "joke",
+        "text": "lmaooooooo"
+      },
+      {
+        "intent": "joke",
+        "text": "lol"
+      },
+      {
+        "intent": "stop",
+        "text": "kiss my ass"
+      },
+      {
+        "intent": "stop",
+        "text": "suck it"
+      },
+      {
+        "intent": "stop",
+        "text": "fuck it"
+      },
+      {
+        "intent": "stop",
+        "text": "i am done"
+      },
+      {
+        "intent": "stop",
+        "text": "stop"
+      },
+      {
+        "intent": "stop",
+        "text": "go back"
+      },
+      {
+        "intent": "stop",
+        "text": "no never mind"
+      },
+      {
+        "intent": "stop",
+        "text": "let it be"
+      },
+      {
+        "intent": "stop",
+        "text": "no not interested"
+      },
+      {
+        "intent": "stop",
+        "text": "bye"
+      },
+      {
+        "intent": "stop",
+        "text": "fuck off"
+      },
+      {
+        "intent": "stop",
+        "text": "back off"
+      },
+      {
+        "intent": "stop",
+        "text": "resett"
+      },
+      {
+        "intent": "stop",
+        "text": "buzz off"
+      },
+      {
+        "intent": "stop",
+        "text": "get lost"
+      },
+      {
+        "intent": "thanks",
+        "text": "thank you"
+      },
+      {
+        "intent": "thanks",
+        "text": "okay cool, thank you"
+      },
+      {
+        "intent": "thanks",
+        "text": "you rock"
+      },
+      {
+        "intent": "thanks",
+        "text": "appreaciate that"
+      },
+      {
+        "intent": "thanks",
+        "text": "i am so greatfull"
+      },
+      {
+        "intent": "thanks",
+        "text": "my pleasure"
+      },
+      {
+        "intent": "thanks",
+        "text": "thanks alot"
+      },
+      {
+        "intent": "thanks",
+        "text": "thats sweet"
+      },
+      {
+        "intent": "thanks",
+        "text": "thanks"
+      },
+      {
+        "intent": "thanks",
+        "text": "tysm"
+      },
+      {
+        "intent": "thanks",
+        "text": "ty"
+      },
+      {
+        "intent": "thanks",
+        "text": "so pleased"
+      },
+      {
+        "intent": "thanks",
+        "text": "i feel great now"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "job"
+      },
+      {
+        "intent": "job",
+        "text": "i am looking for work"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 22,
+            "end": 25,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "i am looking to get a job"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 20,
+            "end": 23,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "i need professional job"
+      },
+      {
+        "intent": "job",
+        "text": "are you recruiting"
+      },
+      {
+        "intent": "job",
+        "text": "would you hire me?"
+      },
+      {
+        "intent": "job",
+        "text": "are you hiring?"
+      },
+      {
+        "intent": "job",
+        "text": "is there any vacancy"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 7,
+            "end": 20,
+            "value": "brand designs",
+            "entity": "skills"
+          }
+        ],
+        "text": "i am a brand designs professional for hire"
+      },
+      {
+        "intent": "job",
+        "text": "do you have any vacancy?"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 17,
+            "end": 26,
+            "value": "designing",
+            "entity": "skills"
+          },
+          {
+            "start": 27,
+            "end": 30,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "im looking for a designing job"
+      },
+      {
+        "intent": "job",
+        "text": "actually i was looking for work"
+      },
+      {
+        "intent": "job",
+        "text": "i would like to work for you"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 15,
+            "end": 18,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "im looking for job"
+      },
+      {
+        "intent": "job",
+        "text": "is there any post open?"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 33,
+            "end": 47,
+            "value": "brand designer",
+            "entity": "skills"
+          }
+        ],
+        "text": "do you have any posts open for a brand designer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 11,
+            "end": 14,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "i look for job"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "i need job"
+      },
+      {
+        "intent": "job",
+        "text": "r u hiring"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 16,
+            "end": 29,
+            "value": "job applicant",
+            "entity": "user"
+          }
+        ],
+        "text": "looking for any job applicant?"
+      },
+      {
+        "intent": "job",
+        "text": "can i fill your vacancy"
+      },
+      {
+        "intent": "job",
+        "text": "would you be recruiting anytime soon?"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 27,
+            "end": 35,
+            "value": "designer",
+            "entity": "skills"
+          }
+        ],
+        "text": "are you guys looking for a designer?"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "brands design",
+            "entity": "skills"
+          }
+        ],
+        "text": "brands design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 6,
+            "end": 9,
+            "value": "job",
+            "entity": "user"
+          },
+          {
+            "start": 13,
+            "end": 26,
+            "value": "brand designs",
+            "entity": "skills"
+          }
+        ],
+        "text": "yea a job in brand designs"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 18,
+            "end": 21,
+            "value": "job",
+            "entity": "user"
+          },
+          {
+            "start": 26,
+            "end": 34,
+            "value": "branding",
+            "entity": "skills"
+          }
+        ],
+        "text": "i am looking into job for branding"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 10,
+            "end": 19,
+            "value": "ui design",
+            "entity": "skills"
+          }
+        ],
+        "text": "i am into ui design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 5,
+            "end": 14,
+            "value": "ux design",
+            "entity": "skills"
+          }
+        ],
+        "text": "i do ux design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 10,
+            "end": 20,
+            "value": "ui designs",
+            "entity": "skills"
+          }
+        ],
+        "text": "i am into ui designs"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 5,
+            "end": 15,
+            "value": "ux designs",
+            "entity": "skills"
+          }
+        ],
+        "text": "i do ux designs"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 5,
+            "end": 17,
+            "value": "brand design",
+            "entity": "skills"
+          }
+        ],
+        "text": "i do brand design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 12,
+            "end": 21,
+            "value": "designing",
+            "entity": "skills"
+          }
+        ],
+        "text": "my thing is designing"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 8,
+            "end": 14,
+            "value": "brands",
+            "entity": "skills"
+          }
+        ],
+        "text": "yea for brands"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "brand",
+            "entity": "skills"
+          }
+        ],
+        "text": "brand"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 9,
+            "end": 12,
+            "value": "job",
+            "entity": "user"
+          },
+          {
+            "start": 17,
+            "end": 32,
+            "value": "branding design",
+            "entity": "skills"
+          }
+        ],
+        "text": "i want a job for branding design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 16,
+            "value": "branding designs",
+            "entity": "skills"
+          }
+        ],
+        "text": "branding designs"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 17,
+            "end": 20,
+            "value": "job",
+            "entity": "user"
+          },
+          {
+            "start": 26,
+            "end": 34,
+            "value": "designer",
+            "entity": "skills"
+          }
+        ],
+        "text": "im looking for a job as a designer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 30,
+            "end": 43,
+            "value": "logo designer",
+            "entity": "skills"
+          }
+        ],
+        "text": "do you have any vacancies for logo designer ?"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 14,
+            "end": 17,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "vacancies for job"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "intern",
+            "entity": "user"
+          }
+        ],
+        "text": "intern"
+      },
+      {
+        "intent": "job",
+        "text": "student"
+      },
+      {
+        "intent": "job",
+        "text": "university"
+      },
+      {
+        "intent": "job",
+        "text": "i am looking for experience work"
+      },
+      {
+        "intent": "job",
+        "text": "i am looking to work for experience work"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 24,
+            "end": 34,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "hey i am looking for an internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "designing",
+            "entity": "skills"
+          }
+        ],
+        "text": "designing"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 13,
+            "end": 23,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "im finding a internship"
+      },
+      {
+        "intent": "job",
+        "text": "[ui design(skills)"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "6 months",
+            "entity": "duration"
+          }
+        ],
+        "text": "6 months"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "designer",
+            "entity": "skills"
+          }
+        ],
+        "text": "designer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 18,
+            "end": 28,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "im looking for an internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "ux design",
+            "entity": "skills"
+          }
+        ],
+        "text": "ux design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "4 months",
+            "entity": "duration"
+          }
+        ],
+        "text": "4 months"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 17,
+            "end": 27,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "im looking for n internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "brand design",
+            "entity": "skills"
+          }
+        ],
+        "text": "brand design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "1 months",
+            "entity": "duration"
+          }
+        ],
+        "text": "1 months"
+      },
+      {
+        "intent": "job",
+        "text": "i need experience work"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 23,
+            "end": 33,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "hey i am looking for n internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "designing",
+            "entity": "skills"
+          }
+        ],
+        "text": "designing"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 13,
+            "end": 23,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "im finding n internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "ux design",
+            "entity": "skills"
+          }
+        ],
+        "text": "ux design"
+      },
+      {
+        "intent": "job",
+        "text": "ok so can i get a job?"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 8,
+            "end": 20,
+            "value": "brand design",
+            "entity": "skills"
+          }
+        ],
+        "text": "im into brand design"
+      },
+      {
+        "intent": "job",
+        "text": "im looking for a job do u have ny vacany?"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "ui design",
+            "entity": "skills"
+          }
+        ],
+        "text": "ui design"
+      },
+      {
+        "intent": "job",
+        "text": "hi do you hire interns?"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "ux/ui design",
+            "entity": "skills"
+          }
+        ],
+        "text": "ux/ui design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "1 month",
+            "entity": "duration"
+          }
+        ],
+        "text": "1 month"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "1 months",
+            "entity": "duration"
+          }
+        ],
+        "text": "1 months"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "ui design",
+            "entity": "skills"
+          }
+        ],
+        "text": "ui design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 18,
+            "end": 28,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "im looking for an internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "brand design",
+            "entity": "skills"
+          }
+        ],
+        "text": "brand design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "1 months",
+            "entity": "duration"
+          }
+        ],
+        "text": "1 months"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "designer",
+            "entity": "skills"
+          }
+        ],
+        "text": "designer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "4 months",
+            "entity": "duration"
+          }
+        ],
+        "text": "4 months"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 11,
+            "end": 19,
+            "value": "designer",
+            "entity": "skills"
+          }
+        ],
+        "text": "yea i am a designer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 10,
+            "end": 19,
+            "value": "designing",
+            "entity": "skills"
+          }
+        ],
+        "text": "i am into designing"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 10,
+            "end": 19,
+            "value": "ui design",
+            "entity": "skills"
+          }
+        ],
+        "text": "i am into ui design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 5,
+            "end": 14,
+            "value": "ux design",
+            "entity": "skills"
+          }
+        ],
+        "text": "i do ux design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 5,
+            "end": 17,
+            "value": "brand design",
+            "entity": "skills"
+          }
+        ],
+        "text": "i do brand design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 12,
+            "end": 20,
+            "value": "branding",
+            "entity": "skills"
+          }
+        ],
+        "text": "my thing is branding"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 5,
+            "end": 17,
+            "value": "brand design",
+            "entity": "skills"
+          }
+        ],
+        "text": "i do brand design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 8,
+            "end": 16,
+            "value": "branding",
+            "entity": "skills"
+          }
+        ],
+        "text": "yea for branding"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 10,
+            "end": 20,
+            "value": "internship",
+            "entity": "user"
+          },
+          {
+            "start": 25,
+            "end": 33,
+            "value": "branding",
+            "entity": "skills"
+          }
+        ],
+        "text": "i want an internship for branding"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "branding",
+            "entity": "skills"
+          }
+        ],
+        "text": "branding"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 17,
+            "end": 27,
+            "value": "internship",
+            "entity": "user"
+          },
+          {
+            "start": 33,
+            "end": 41,
+            "value": "designer",
+            "entity": "skills"
+          }
+        ],
+        "text": "im looking for a internship as a designer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 9,
+            "end": 16,
+            "value": "interns",
+            "entity": "user"
+          }
+        ],
+        "text": "seat for interns"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 12,
+            "end": 22,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "vacancy for internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "interns",
+            "entity": "user"
+          }
+        ],
+        "text": "do you guys hire interns"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 18,
+            "end": 21,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "can you give me a job"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 21,
+            "end": 24,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "can you provide me a job"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 10,
+            "end": 13,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "i there a job for me?"
+      },
+      {
+        "intent": "job",
+        "text": "i would like to work at yellow slice"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "intern",
+            "entity": "user"
+          }
+        ],
+        "text": "intern"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "intern",
+            "entity": "user"
+          }
+        ],
+        "text": "intern"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "intern",
+            "entity": "user"
+          }
+        ],
+        "text": "intern"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "intern",
+            "entity": "user"
+          }
+        ],
+        "text": "intern"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 6,
+            "end": 9,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "yea a job maybe"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 12,
+            "end": 23,
+            "value": "internships",
+            "entity": "user"
+          }
+        ],
+        "text": "do you have internships?"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 3,
+            "end": 13,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "an internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 9,
+            "end": 20,
+            "value": "internships",
+            "entity": "user"
+          }
+        ],
+        "text": "you have internships?"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "branding",
+            "entity": "skills"
+          }
+        ],
+        "text": "branding"
+      },
+      {
+        "intent": "job",
+        "text": "i am looking for work as a [ux designer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 22,
+            "end": 25,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "i am looking to get a job as an [ux designer"
+      },
+      {
+        "intent": "job",
+        "text": "i am a professional [ux designer"
+      },
+      {
+        "intent": "job",
+        "text": "are you recruiting [ux designer"
+      },
+      {
+        "intent": "job",
+        "text": "would you hire a [ux designer"
+      },
+      {
+        "intent": "job",
+        "text": "do you hire a [ux designer"
+      },
+      {
+        "intent": "job",
+        "text": "are you any for hiring [ux designer"
+      },
+      {
+        "intent": "job",
+        "text": "is there any vacancy for [ux designer"
+      },
+      {
+        "intent": "job",
+        "text": "i am looking for work as a [ux lead"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 22,
+            "end": 25,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "i am looking to get a job as an [ux lead"
+      },
+      {
+        "intent": "job",
+        "text": "i am a professional [ux lead"
+      },
+      {
+        "intent": "job",
+        "text": "are you recruiting [ux lead"
+      },
+      {
+        "intent": "job",
+        "text": "would you hire a [ux lead"
+      },
+      {
+        "intent": "job",
+        "text": "do you hire a [ux lead"
+      },
+      {
+        "intent": "job",
+        "text": "are you any for hiring [ux lead"
+      },
+      {
+        "intent": "job",
+        "text": "is there any vacancy for [ux lead"
+      },
+      {
+        "intent": "job",
+        "text": "i am looking for work as a [ui designer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 22,
+            "end": 25,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "i am looking to get a job as an [ui designer"
+      },
+      {
+        "intent": "job",
+        "text": "i am a professional [ui designer"
+      },
+      {
+        "intent": "job",
+        "text": "are you recruiting [ui designer"
+      },
+      {
+        "intent": "job",
+        "text": "would you hire a [ui designer"
+      },
+      {
+        "intent": "job",
+        "text": "do you hire a [ui designer"
+      },
+      {
+        "intent": "job",
+        "text": "are you any for hiring [ui designer"
+      },
+      {
+        "intent": "job",
+        "text": "is there any vacancy for [ui designer"
+      },
+      {
+        "intent": "job",
+        "text": "i am looking for work as a [ui lead"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 22,
+            "end": 25,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "i am looking to get a job as an [ui lead"
+      },
+      {
+        "intent": "job",
+        "text": "i am a professional [ui lead"
+      },
+      {
+        "intent": "job",
+        "text": "are you recruiting [ui lead"
+      },
+      {
+        "intent": "job",
+        "text": "would you hire a [ui lead"
+      },
+      {
+        "intent": "job",
+        "text": "do you hire a [ui lead"
+      },
+      {
+        "intent": "job",
+        "text": "are you any for hiring [ui lead"
+      },
+      {
+        "intent": "job",
+        "text": "is there any vacancy for [ui lead"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 27,
+            "end": 43,
+            "value": "graphic designer",
+            "entity": "post"
+          }
+        ],
+        "text": "i am looking for work as a graphic designer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 22,
+            "end": 25,
+            "value": "job",
+            "entity": "user"
+          },
+          {
+            "start": 32,
+            "end": 48,
+            "value": "graphic designer",
+            "entity": "post"
+          }
+        ],
+        "text": "i am looking to get a job as an graphic designer do you have any post open"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 20,
+            "end": 36,
+            "value": "graphic designer",
+            "entity": "post"
+          }
+        ],
+        "text": "i am a professional graphic designer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 19,
+            "end": 35,
+            "value": "graphic designer",
+            "entity": "post"
+          }
+        ],
+        "text": "are you recruiting graphic designer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 17,
+            "end": 33,
+            "value": "graphic designer",
+            "entity": "post"
+          }
+        ],
+        "text": "would you hire a graphic designer?"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 14,
+            "end": 30,
+            "value": "graphic designer",
+            "entity": "post"
+          }
+        ],
+        "text": "do you hire a graphic designer?"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 23,
+            "end": 39,
+            "value": "graphic designer",
+            "entity": "post"
+          }
+        ],
+        "text": "are you any for hiring graphic designer?"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 25,
+            "end": 41,
+            "value": "graphic designer",
+            "entity": "post"
+          }
+        ],
+        "text": "is there any vacancy for graphic designer"
+      },
+      {
+        "intent": "job",
+        "text": "i am looking for work as a ["
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 22,
+            "end": 25,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "i am looking to get a job as an ["
+      },
+      {
+        "intent": "job",
+        "text": "i am a professional ["
+      },
+      {
+        "intent": "job",
+        "text": "are you recruiting ["
+      },
+      {
+        "intent": "job",
+        "text": "would you hire a ["
+      },
+      {
+        "intent": "job",
+        "text": "do you hire a ["
+      },
+      {
+        "intent": "job",
+        "text": "are you any for hiring ["
+      },
+      {
+        "intent": "job",
+        "text": "is there any vacancy for ["
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 27,
+            "end": 42,
+            "value": "design director",
+            "entity": "post"
+          }
+        ],
+        "text": "i am looking for work as a design director"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 22,
+            "end": 25,
+            "value": "job",
+            "entity": "user"
+          },
+          {
+            "start": 32,
+            "end": 47,
+            "value": "design director",
+            "entity": "post"
+          }
+        ],
+        "text": "i am looking to get a job as an design director do you have any post open"
+      },
+      {
+        "intent": "asktime",
+        "text": "hey can u tell me the time"
+      },
+      {
+        "intent": "asktime",
+        "text": "can i know the time"
+      },
+      {
+        "intent": "asktime",
+        "text": "time"
+      },
+      {
+        "intent": "asktime",
+        "text": "tell me the time"
+      },
+      {
+        "intent": "asktime",
+        "text": "show time"
+      },
+      {
+        "intent": "asktime",
+        "text": "acknowledge the time"
+      },
+      {
+        "intent": "asktime",
+        "text": "show me the time"
+      },
+      {
+        "intent": "asktime",
+        "text": "provide time"
+      },
+      {
+        "intent": "asktime",
+        "text": "i would like to know the time"
+      },
+      {
+        "intent": "asktime",
+        "text": "time please"
+      },
+      {
+        "intent": "asktime",
+        "text": "time in 30 mins"
+      },
+      {
+        "intent": "asktime",
+        "text": "what time will it be in 2 hours"
+      },
+      {
+        "intent": "asktime",
+        "text": "what time is it again?"
+      },
+      {
+        "intent": "askdate",
+        "text": "hey can u tell me the date"
+      },
+      {
+        "intent": "askdate",
+        "text": "can i know the date"
+      },
+      {
+        "intent": "askdate",
+        "text": "date"
+      },
+      {
+        "intent": "askdate",
+        "text": "tell me the date"
+      },
+      {
+        "intent": "askdate",
+        "text": "show date"
+      },
+      {
+        "intent": "askdate",
+        "text": "acknowledge the date"
+      },
+      {
+        "intent": "askdate",
+        "text": "show me the date"
+      },
+      {
+        "intent": "askdate",
+        "text": "provide date"
+      },
+      {
+        "intent": "askdate",
+        "text": "i would like to know the date"
+      },
+      {
+        "intent": "askdate",
+        "text": "date please"
+      },
+      {
+        "intent": "askdate",
+        "text": "tell me the date tomorrow"
+      },
+      {
+        "intent": "askdate",
+        "text": "date next month"
+      },
+      {
+        "intent": "intern",
+        "text": "internship"
+      },
+      {
+        "intent": "intern",
+        "text": "intern"
+      },
+      {
+        "intent": "intern",
+        "text": "student"
+      },
+      {
+        "intent": "intern",
+        "text": "university"
+      },
+      {
+        "intent": "intern",
+        "text": "i am looking for experience work"
+      },
+      {
+        "intent": "intern",
+        "text": "i am looking to work for experience work"
+      },
+      {
+        "intent": "intern",
+        "text": "hey i am looking for an internship"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "designing",
+            "entity": "skills"
+          }
+        ],
+        "text": "designing"
+      },
+      {
+        "intent": "intern",
+        "text": "im finding a internship"
+      },
+      {
+        "intent": "intern",
+        "text": "[ui design(skills)"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "6 months",
+            "entity": "duration"
+          }
+        ],
+        "text": "6 months"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "designer",
+            "entity": "skills"
+          }
+        ],
+        "text": "designer"
+      },
+      {
+        "intent": "intern",
+        "text": "im looking for an internship"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "ux design",
+            "entity": "skills"
+          }
+        ],
+        "text": "ux design"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "4 months",
+            "entity": "duration"
+          }
+        ],
+        "text": "4 months"
+      },
+      {
+        "intent": "intern",
+        "text": "im looking for n internship"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "Brand design",
+            "entity": "skills"
+          }
+        ],
+        "text": "Brand design"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "1 months",
+            "entity": "duration"
+          }
+        ],
+        "text": "1 months"
+      },
+      {
+        "intent": "intern",
+        "text": "i need experience work"
+      },
+      {
+        "intent": "intern",
+        "text": "hey i am looking for n internship"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "designing",
+            "entity": "skills"
+          }
+        ],
+        "text": "designing"
+      },
+      {
+        "intent": "intern",
+        "text": "im finding n internship"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "ux design",
+            "entity": "skills"
+          }
+        ],
+        "text": "ux design"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "1 months",
+            "entity": "duration"
+          }
+        ],
+        "text": "1 months"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "ui design",
+            "entity": "skills"
+          }
+        ],
+        "text": "ui design"
+      },
+      {
+        "intent": "intern",
+        "text": "im looking for an internship"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "brand design",
+            "entity": "skills"
+          }
+        ],
+        "text": "brand design"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "1 months",
+            "entity": "duration"
+          }
+        ],
+        "text": "1 months"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "designer",
+            "entity": "skills"
+          }
+        ],
+        "text": "designer"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "4 months",
+            "entity": "duration"
+          }
+        ],
+        "text": "4 months"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 11,
+            "end": 19,
+            "value": "designer",
+            "entity": "skills"
+          }
+        ],
+        "text": "yea i am a designer"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 10,
+            "end": 19,
+            "value": "designing",
+            "entity": "skills"
+          }
+        ],
+        "text": "i am into designing"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 10,
+            "end": 19,
+            "value": "ui design",
+            "entity": "skills"
+          }
+        ],
+        "text": "i am into ui design"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 5,
+            "end": 14,
+            "value": "ux design",
+            "entity": "skills"
+          }
+        ],
+        "text": "i do ux design"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 5,
+            "end": 17,
+            "value": "Brand design",
+            "entity": "skills"
+          }
+        ],
+        "text": "i do Brand design"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 12,
+            "end": 20,
+            "value": "branding",
+            "entity": "skills"
+          }
+        ],
+        "text": "my thing is branding"
+      },
+      {
+        "intent": "intern",
+        "text": "internship"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 5,
+            "end": 17,
+            "value": "brand design",
+            "entity": "skills"
+          }
+        ],
+        "text": "i do brand design"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 8,
+            "end": 16,
+            "value": "branding",
+            "entity": "skills"
+          }
+        ],
+        "text": "yea for branding"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 25,
+            "end": 33,
+            "value": "branding",
+            "entity": "skills"
+          }
+        ],
+        "text": "i want an internship for branding"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "branding",
+            "entity": "skills"
+          }
+        ],
+        "text": "branding"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 33,
+            "end": 41,
+            "value": "designer",
+            "entity": "skills"
+          }
+        ],
+        "text": "im looking for a internship as a designer"
+      },
+      {
+        "intent": "intern",
+        "text": "seat for interns"
+      },
+      {
+        "intent": "intern",
+        "text": "vacancy for internship"
+      },
+      {
+        "intent": "intern",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "interns",
+            "entity": "user"
+          }
+        ],
+        "text": "do you guys hire interns"
+      },
+      {
+        "intent": "Yellowstory",
+        "text": "whats your story?"
+      },
+      {
+        "intent": "Yellowstory",
+        "text": "tell me your story"
+      },
+      {
+        "intent": "Yellowstory",
+        "text": "whats your motto"
+      },
+      {
+        "intent": "Yellowstory",
+        "text": "tell me about your company's story"
+      },
+      {
+        "intent": "Yellowstory",
+        "text": "whats the companys story"
+      },
+      {
+        "intent": "Yellowstory",
+        "text": "tell me more about yellowslice's story"
+      },
+      {
+        "intent": "Yellowstory",
+        "text": "Tell me the story of inception of Yellow Slice?"
+      },
+      {
+        "intent": "Yellowstory",
+        "text": "What is the idea that came to your mind while starting a design studio?"
+      },
+      {
+        "intent": "Yellowstory",
+        "text": "tell me the company's history"
+      },
+      {
+        "intent": "Yellowstory",
+        "text": "i would like to know about your company and its Story"
+      },
+      {
+        "intent": "Yellowstory",
+        "text": "what do you believe"
+      },
+      {
+        "intent": "Yellowstory",
+        "text": "how did you start"
+      },
+      {
+        "intent": "Yellowstory",
+        "text": "whats the story behind your company"
+      },
+      {
+        "intent": "Yellowstory",
+        "text": "tell me more about the yellow story"
+      },
+      {
+        "intent": "Yellowstory",
+        "text": "company story"
+      },
+      {
+        "intent": "companyLocation",
+        "text": "wheres your company located"
+      },
+      {
+        "intent": "companyLocation",
+        "text": "whats location you at?"
+      },
+      {
+        "intent": "companyLocation",
+        "text": "wheres your company?"
+      },
+      {
+        "intent": "companyLocation",
+        "text": "how do i get to yellow slice"
+      },
+      {
+        "intent": "companyLocation",
+        "text": "whats the companys address?"
+      },
+      {
+        "intent": "companyLocation",
+        "text": "wheres the company?"
+      },
+      {
+        "intent": "companyLocation",
+        "text": "can i know the location of your office"
+      },
+      {
+        "intent": "companyLocation",
+        "text": "tell me your office location"
+      },
+      {
+        "intent": "companyLocation",
+        "text": "where is yellow slice again?"
+      },
+      {
+        "intent": "companyLocation",
+        "text": "address"
+      },
+      {
+        "intent": "companyLocation",
+        "text": "location company"
+      },
+      {
+        "intent": "aboutYellowCulture",
+        "text": "tell me what you guys do at the office"
+      },
+      {
+        "intent": "aboutYellowCulture",
+        "text": "tell me about your culture"
+      },
+      {
+        "intent": "aboutYellowCulture",
+        "text": "are your bosses good?"
+      },
+      {
+        "intent": "aboutYellowCulture",
+        "text": "So are you guys fun?"
+      },
+      {
+        "intent": "aboutYellowCulture",
+        "text": "do  you guys have workshops?"
+      },
+      {
+        "intent": "aboutYellowCulture",
+        "text": "so you do any kind of activities?"
+      },
+      {
+        "intent": "aboutYellowCulture",
+        "text": "do you people have fun?"
+      },
+      {
+        "intent": "aboutYellowCulture",
+        "text": "whats the work culture like?"
+      },
+      {
+        "intent": "aboutYellowCulture",
+        "text": "what kind of culture do you guys follow at the office?"
+      },
+      {
+        "intent": "aboutYellowCulture",
+        "text": "what kind of culture do you guys follow at work?"
+      },
+      {
+        "intent": "aboutYellowCulture",
+        "text": "work culture"
+      },
+      {
+        "intent": "aboutYellowCulture",
+        "text": "what is the design culture like"
+      },
+      {
+        "intent": "aboutYellowCulture",
+        "text": "do you guys have lotta fun?"
+      },
+      {
+        "intent": "aboutYellowCulture",
+        "text": "what activities do you guys do?"
+      },
+      {
+        "intent": "aboutYellowCulture",
+        "text": "do you guys do anything except work?"
+      },
+      {
+        "intent": "aboutYellowCulture",
+        "text": "what extra activities do u guys do?"
+      },
+      {
+        "intent": "aboutYellowCulture",
+        "text": "tell me about office life"
+      },
+      {
+        "intent": "aboutYellowCulture",
+        "text": "workshops"
+      },
+      {
+        "intent": "whyYellow",
+        "text": "what inspires the name?"
+      },
+      {
+        "intent": "whyYellow",
+        "text": "any story for the name?"
+      },
+      {
+        "intent": "whyYellow",
+        "text": "why yellowslice?"
+      },
+      {
+        "intent": "whyYellow",
+        "text": "why yellow?"
+      },
+      {
+        "intent": "whyYellow",
+        "text": "why yellow slice?"
+      },
+      {
+        "intent": "whyYellow",
+        "text": "whys the company named yellowslice"
+      },
+      {
+        "intent": "whyYellow",
+        "text": "what does the name mean?"
+      },
+      {
+        "intent": "whyYellow",
+        "text": "what does yellow slice even mean"
+      },
+      {
+        "intent": "whyYellow",
+        "text": "why is it yellow slice?"
+      },
+      {
+        "intent": "whyYellow",
+        "text": "what gives your company that name"
+      },
+      {
+        "intent": "whyYellow",
+        "text": "what do u mean by yellow slice"
+      },
+      {
+        "intent": "whyYellow",
+        "text": "can you explain that name?"
+      },
+      {
+        "intent": "whyYellow",
+        "text": "does your name even mean anything ?"
+      },
+      {
+        "intent": "whyYellow",
+        "text": "what makes you call it Yellow Slice?"
+      },
+      {
+        "intent": "whyYellow",
+        "text": "name yellow slice"
+      },
+      {
+        "intent": "whyYellow",
+        "text": "why this name"
+      },
+      {
+        "intent": "whyYellow",
+        "text": "any reason for this name?"
+      },
+      {
+        "intent": "whyYellow",
+        "text": "Whats Yellow Slice?"
+      },
+      {
+        "intent": "whyYellow",
+        "text": "why that name?"
+      },
+      {
+        "intent": "whyYellow",
+        "text": "what does the name mean"
+      },
+      {
+        "intent": "whyYellow",
+        "text": "what is meaning of YellowSlice"
+      },
+      {
+        "intent": "whyYellow",
+        "text": "whats with the yellow ?"
+      },
+      {
+        "intent": "whyYellow",
+        "text": "why are you obsessed with yellow"
+      },
+      {
+        "intent": "aboutBot",
+        "text": "who created you"
+      },
+      {
+        "intent": "aboutBot",
+        "text": "what are you?"
+      },
+      {
+        "intent": "aboutBot",
+        "text": "tell me about you"
+      },
+      {
+        "intent": "aboutBot",
+        "text": "who are you?"
+      },
+      {
+        "intent": "aboutBot",
+        "text": "what you made of"
+      },
+      {
+        "intent": "aboutBot",
+        "text": "who made you?"
+      },
+      {
+        "intent": "aboutBot",
+        "text": "what are you?"
+      },
+      {
+        "intent": "aboutBot",
+        "text": "what kind of bot are you"
+      },
+      {
+        "intent": "aboutBot",
+        "text": "who made you?"
+      },
+      {
+        "intent": "aboutBot",
+        "text": "can you tell me about yourself"
+      },
+      {
+        "intent": "aboutBot",
+        "text": "tell me about you"
+      },
+      {
+        "intent": "aboutBot",
+        "text": "and who're you again?"
+      },
+      {
+        "intent": "aboutBot",
+        "text": "who invented you"
+      },
+      {
+        "intent": "aboutBot",
+        "text": "why were you invented"
+      },
+      {
+        "intent": "aboutBot",
+        "text": "whats the purpose to make you"
+      },
+      {
+        "intent": "aboutBot",
+        "text": "i want to know who invented you"
+      },
+      {
+        "intent": "aboutBot",
+        "text": "May I ask who invented you?"
+      },
+      {
+        "intent": "aboutBot",
+        "text": "please tell me what company created you"
+      },
+      {
+        "intent": "aboutBot",
+        "text": "please tell me who created you"
+      },
+      {
+        "intent": "aboutBot",
+        "text": "tell me more about your creators"
+      },
+      {
+        "intent": "aboutBot",
+        "text": "what are you?"
+      },
+      {
+        "intent": "aboutBot",
+        "text": "who made you"
+      },
+      {
+        "intent": "aboutBot",
+        "text": "why were you made?"
+      },
+      {
+        "intent": "aboutBot",
+        "text": "what your purpose?"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "tell me about your company"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "so what kind of company are you?"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "tell me about your company's foundation"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "i want to know the company which designed you"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "i want to know the company which generated you"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "i want to know the company which invented you"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "i want to get to know your company more"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "what kind of company are you"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "what does yellow slice do?"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "tell me about company"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "i want to know the company's services"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "i want to know the companys motive"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "i want to know about the companies specialities"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "i would like to know more bout your company"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "i want to know about the company that invented you"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "what kind of services do you provide?"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "what services do you have"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "what kind of work does your company do?"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "what things could your company help us with"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "what services you provide"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "services"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "can i know your companies main products"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "what all can you do"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "are you like a internet company?"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "so whats your companys speciality"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "can i know the services you provide"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "can you tell me the services you provide"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "can you be more specific about the services you provide?"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "can i know exactly what kind of projects can you help me with"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "what design services do you provide?"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "what kind of user interface services do have"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "what all services do you hold for companies"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "what services do u provide?"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "services"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "tell me about your services"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "what kind pf services do you have?"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "can ik the kind of services you provide"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "please tell me the company that created you"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "tell me about yellow slice"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "what does your company do?"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "how old is your company?"
+      },
+      {
+        "intent": "aboutCompany",
+        "text": "what kind of services do you provide"
+      },
+      {
+        "intent": "aboutOwners",
+        "text": "oh cool and who are the owners?"
+      },
+      {
+        "intent": "aboutOwners",
+        "text": "can i know about founders?"
+      },
+      {
+        "intent": "aboutOwners",
+        "text": "tell me about the company owners"
+      },
+      {
+        "intent": "aboutOwners",
+        "text": "who are the companys foundation"
+      },
+      {
+        "intent": "aboutOwners",
+        "text": "so who're your bosses?"
+      },
+      {
+        "intent": "aboutOwners",
+        "text": "tell me about your boss"
+      },
+      {
+        "intent": "aboutOwners",
+        "text": "can you share your boss with me?"
+      },
+      {
+        "intent": "aboutOwners",
+        "text": "i want to get to know your owner"
+      },
+      {
+        "intent": "aboutOwners",
+        "text": "do you know your boss?"
+      },
+      {
+        "intent": "aboutOwners",
+        "text": "who owns yellow slice?"
+      },
+      {
+        "intent": "aboutOwners",
+        "text": "whos the CEO of yellow slice"
+      },
+      {
+        "intent": "aboutOwners",
+        "text": "who's the CTO of your company"
+      },
+      {
+        "intent": "aboutOwners",
+        "text": "who runs the company?"
+      },
+      {
+        "intent": "aboutOwners",
+        "text": "who's your superior?"
+      },
+      {
+        "intent": "aboutOwners",
+        "text": "who's the head of the company"
+      },
+      {
+        "intent": "aboutOwners",
+        "text": "who's the face of the company?"
+      },
+      {
+        "intent": "aboutOwners",
+        "text": "who owns yellow slice?"
+      },
+      {
+        "intent": "aboutOwners",
+        "text": "who owns your company?"
+      },
+      {
+        "intent": "askProjects",
+        "text": "can i see some of your work"
+      },
+      {
+        "intent": "askProjects",
+        "text": "can i see some of your projects"
+      },
+      {
+        "intent": "askProjects",
+        "text": "show me some of your work"
+      },
+      {
+        "intent": "askProjects",
+        "text": "can i have a look at some of your past projects?"
+      },
+      {
+        "intent": "askProjects",
+        "text": "can you show me some of your work"
+      },
+      {
+        "intent": "askProjects",
+        "text": "can you show me some products youve delivered"
+      },
+      {
+        "intent": "askProjects",
+        "text": "can you show me something you made?"
+      },
+      {
+        "intent": "askProjects",
+        "text": "can i see some samples?"
+      },
+      {
+        "intent": "askProjects",
+        "text": "would you show me some samples"
+      },
+      {
+        "intent": "askProjects",
+        "text": "can i see some of your work?"
+      },
+      {
+        "intent": "askProjects",
+        "text": "why dont you show me some of your work"
+      },
+      {
+        "intent": "askProjects",
+        "text": "can you show me some of your branding project samples"
+      },
+      {
+        "intent": "askProjects",
+        "text": "id like to see some of your UI work"
+      },
+      {
+        "intent": "askProjects",
+        "text": "show me some projects"
+      },
+      {
+        "intent": "askProjects",
+        "text": "show me some demos"
+      },
+      {
+        "intent": "askProjects",
+        "text": "demo"
+      },
+      {
+        "intent": "askProjects",
+        "text": "can i see some of your works?"
+      },
+      {
+        "intent": "askProjects",
+        "text": "please show me some of your projects"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "job"
+      },
+      {
+        "intent": "job",
+        "text": "i am looking for work"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 22,
+            "end": 25,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "i am looking to get a job"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "i need job"
+      },
+      {
+        "intent": "job",
+        "text": "are you recruiting"
+      },
+      {
+        "intent": "job",
+        "text": "would you hire me?"
+      },
+      {
+        "intent": "job",
+        "text": "are you hiring?"
+      },
+      {
+        "intent": "job",
+        "text": "is there any vacancy"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 7,
+            "end": 20,
+            "value": "brand designs",
+            "entity": "skills"
+          }
+        ],
+        "text": "i am a brand designs professional for hire"
+      },
+      {
+        "intent": "job",
+        "text": "do you have any vacancy?"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 17,
+            "end": 26,
+            "value": "designing",
+            "entity": "skills"
+          },
+          {
+            "start": 27,
+            "end": 30,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "im looking for a designing job"
+      },
+      {
+        "intent": "job",
+        "text": "actually i was looking for work"
+      },
+      {
+        "intent": "job",
+        "text": "i would like to work for you"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 15,
+            "end": 18,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "im looking for job"
+      },
+      {
+        "intent": "job",
+        "text": "is there any post open?"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 33,
+            "end": 47,
+            "value": "brand designer",
+            "entity": "skills"
+          }
+        ],
+        "text": "do you have any posts open for a brand designer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 11,
+            "end": 14,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "i look for job"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "i need job"
+      },
+      {
+        "intent": "job",
+        "text": "Are you hiring"
+      },
+      {
+        "intent": "job",
+        "text": "looking for any [job applicant](user?"
+      },
+      {
+        "intent": "job",
+        "text": "can i fill your vacancy"
+      },
+      {
+        "intent": "job",
+        "text": "would you be recruiting anytime soon?"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 27,
+            "end": 35,
+            "value": "designer",
+            "entity": "skills"
+          }
+        ],
+        "text": "are you guys looking for a designer?"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "brands design",
+            "entity": "skills"
+          }
+        ],
+        "text": "brands design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 6,
+            "end": 9,
+            "value": "job",
+            "entity": "user"
+          },
+          {
+            "start": 13,
+            "end": 26,
+            "value": "brand designs",
+            "entity": "skills"
+          }
+        ],
+        "text": "yea a job in brand designs"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 18,
+            "end": 21,
+            "value": "job",
+            "entity": "user"
+          },
+          {
+            "start": 26,
+            "end": 34,
+            "value": "branding",
+            "entity": "skills"
+          }
+        ],
+        "text": "i am looking into job for branding"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 10,
+            "end": 19,
+            "value": "ui design",
+            "entity": "skills"
+          }
+        ],
+        "text": "i am into ui design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 5,
+            "end": 14,
+            "value": "ux design",
+            "entity": "skills"
+          }
+        ],
+        "text": "i do ux design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 10,
+            "end": 20,
+            "value": "ui designs",
+            "entity": "skills"
+          }
+        ],
+        "text": "i am into ui designs"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 5,
+            "end": 15,
+            "value": "ux designs",
+            "entity": "skills"
+          }
+        ],
+        "text": "i do ux designs"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 5,
+            "end": 17,
+            "value": "brand design",
+            "entity": "skills"
+          }
+        ],
+        "text": "i do brand design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 12,
+            "end": 21,
+            "value": "designing",
+            "entity": "skills"
+          }
+        ],
+        "text": "my thing is designing"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 8,
+            "end": 14,
+            "value": "brands",
+            "entity": "skills"
+          }
+        ],
+        "text": "yea for brands"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "brand",
+            "entity": "skills"
+          }
+        ],
+        "text": "brand"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 9,
+            "end": 12,
+            "value": "job",
+            "entity": "user"
+          },
+          {
+            "start": 17,
+            "end": 32,
+            "value": "branding design",
+            "entity": "skills"
+          }
+        ],
+        "text": "i want a job for branding design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 16,
+            "value": "branding designs",
+            "entity": "skills"
+          }
+        ],
+        "text": "branding designs"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 17,
+            "end": 20,
+            "value": "job",
+            "entity": "user"
+          },
+          {
+            "start": 26,
+            "end": 34,
+            "value": "designer",
+            "entity": "skills"
+          }
+        ],
+        "text": "im looking for a job as a designer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 30,
+            "end": 43,
+            "value": "logo designer",
+            "entity": "skills"
+          }
+        ],
+        "text": "do you have any vacancies for logo designer ?"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 14,
+            "end": 17,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "vacancies for job"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "intern",
+            "entity": "user"
+          }
+        ],
+        "text": "intern"
+      },
+      {
+        "intent": "job",
+        "text": "student"
+      },
+      {
+        "intent": "job",
+        "text": "university"
+      },
+      {
+        "intent": "job",
+        "text": "i am looking for experience work"
+      },
+      {
+        "intent": "job",
+        "text": "i am looking to work for experience work"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 24,
+            "end": 34,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "hey i am looking for an internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "designing",
+            "entity": "skills"
+          }
+        ],
+        "text": "designing"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 13,
+            "end": 23,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "im finding a internship"
+      },
+      {
+        "intent": "job",
+        "text": "[ui design(skills)"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "6 months",
+            "entity": "duration"
+          }
+        ],
+        "text": "6 months"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "designer",
+            "entity": "skills"
+          }
+        ],
+        "text": "designer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 18,
+            "end": 28,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "im looking for an internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "ux design",
+            "entity": "skills"
+          }
+        ],
+        "text": "ux design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "4 months",
+            "entity": "duration"
+          }
+        ],
+        "text": "4 months"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 17,
+            "end": 27,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "im looking for n internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "Brand design",
+            "entity": "skills"
+          }
+        ],
+        "text": "Brand design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "1 months",
+            "entity": "duration"
+          }
+        ],
+        "text": "1 months"
+      },
+      {
+        "intent": "job",
+        "text": "i need experience work"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 23,
+            "end": 33,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "hey i am looking for n internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "designing",
+            "entity": "skills"
+          }
+        ],
+        "text": "designing"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 13,
+            "end": 23,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "im finding n internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "ux design",
+            "entity": "skills"
+          }
+        ],
+        "text": "ux design"
+      },
+      {
+        "intent": "job",
+        "text": "ok so can i get a job?"
+      },
+      {
+        "intent": "job",
+        "text": "im into [Brand Design](skills"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 17,
+            "end": 20,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "im looking for a job do u have any vacany?"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "ui design",
+            "entity": "skills"
+          }
+        ],
+        "text": "ui design"
+      },
+      {
+        "intent": "job",
+        "text": "hi do you hire interns?"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "ux/ui design",
+            "entity": "skills"
+          }
+        ],
+        "text": "ux/ui design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "1 month",
+            "entity": "duration"
+          }
+        ],
+        "text": "1 month"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "1 months",
+            "entity": "duration"
+          }
+        ],
+        "text": "1 months"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "ui design",
+            "entity": "skills"
+          }
+        ],
+        "text": "ui design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 18,
+            "end": 28,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "im looking for an internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "brand design",
+            "entity": "skills"
+          }
+        ],
+        "text": "brand design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "1 months",
+            "entity": "duration"
+          }
+        ],
+        "text": "1 months"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "designer",
+            "entity": "skills"
+          }
+        ],
+        "text": "designer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "4 months",
+            "entity": "duration"
+          }
+        ],
+        "text": "4 months"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 11,
+            "end": 19,
+            "value": "designer",
+            "entity": "skills"
+          }
+        ],
+        "text": "yea i am a designer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 10,
+            "end": 19,
+            "value": "designing",
+            "entity": "skills"
+          }
+        ],
+        "text": "i am into designing"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 10,
+            "end": 19,
+            "value": "ui design",
+            "entity": "skills"
+          }
+        ],
+        "text": "i am into ui design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 5,
+            "end": 14,
+            "value": "ux design",
+            "entity": "skills"
+          }
+        ],
+        "text": "i do ux design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 5,
+            "end": 17,
+            "value": "Brand design",
+            "entity": "skills"
+          }
+        ],
+        "text": "i do Brand design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 12,
+            "end": 20,
+            "value": "branding",
+            "entity": "skills"
+          }
+        ],
+        "text": "my thing is branding"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 5,
+            "end": 17,
+            "value": "brand design",
+            "entity": "skills"
+          }
+        ],
+        "text": "i do brand design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 8,
+            "end": 16,
+            "value": "branding",
+            "entity": "skills"
+          }
+        ],
+        "text": "yea for branding"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 10,
+            "end": 20,
+            "value": "internship",
+            "entity": "user"
+          },
+          {
+            "start": 25,
+            "end": 33,
+            "value": "branding",
+            "entity": "skills"
+          }
+        ],
+        "text": "i want an internship for branding"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "branding",
+            "entity": "skills"
+          }
+        ],
+        "text": "branding"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 17,
+            "end": 27,
+            "value": "internship",
+            "entity": "user"
+          },
+          {
+            "start": 33,
+            "end": 41,
+            "value": "designer",
+            "entity": "skills"
+          }
+        ],
+        "text": "im looking for a internship as a designer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 9,
+            "end": 16,
+            "value": "interns",
+            "entity": "user"
+          }
+        ],
+        "text": "seat for interns"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 12,
+            "end": 22,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "vacancy for internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "interns",
+            "entity": "user"
+          }
+        ],
+        "text": "do you guys hire interns"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 18,
+            "end": 21,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "can you give me a job"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 21,
+            "end": 24,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "can you provide me a job"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 10,
+            "end": 13,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "i there a job for me?"
+      },
+      {
+        "intent": "job",
+        "text": "i would like to work at yellow slice"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "intern",
+            "entity": "user"
+          }
+        ],
+        "text": "intern"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "intern",
+            "entity": "user"
+          }
+        ],
+        "text": "intern"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "intern",
+            "entity": "user"
+          }
+        ],
+        "text": "intern"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "intern",
+            "entity": "user"
+          }
+        ],
+        "text": "intern"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 6,
+            "end": 9,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "yea a job maybe"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 12,
+            "end": 23,
+            "value": "internships",
+            "entity": "user"
+          }
+        ],
+        "text": "do you have internships?"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 3,
+            "end": 13,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "an internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 9,
+            "end": 20,
+            "value": "internships",
+            "entity": "user"
+          }
+        ],
+        "text": "you have internships?"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "branding",
+            "entity": "skills"
+          }
+        ],
+        "text": "branding"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "Brands design",
+            "entity": "post"
+          }
+        ],
+        "text": "Brands design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "branding design",
+            "entity": "post"
+          }
+        ],
+        "text": "branding design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "UX Designer",
+            "entity": "post"
+          }
+        ],
+        "text": "UX Designer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "UX Lead",
+            "entity": "post"
+          }
+        ],
+        "text": "UX Lead"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "UI Designer",
+            "entity": "post"
+          }
+        ],
+        "text": "UI Designer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "UI Lead",
+            "entity": "post"
+          }
+        ],
+        "text": "UI Lead"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 16,
+            "value": "Graphic Designer",
+            "entity": "post"
+          }
+        ],
+        "text": "Graphic Designer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "Brand Lead",
+            "entity": "post"
+          }
+        ],
+        "text": "Brand Lead"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "Design Director",
+            "entity": "post"
+          }
+        ],
+        "text": "Design Director"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "Illustrator",
+            "entity": "post"
+          }
+        ],
+        "text": "Illustrator"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "3D Artist",
+            "entity": "post"
+          }
+        ],
+        "text": "3D Artist"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "Product Manager",
+            "entity": "post"
+          }
+        ],
+        "text": "Product Manager"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "Content Writer",
+            "entity": "post"
+          }
+        ],
+        "text": "Content Writer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 28,
+            "value": "Business Development Manager",
+            "entity": "post"
+          }
+        ],
+        "text": "Business Development Manager"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "HTML Developer",
+            "entity": "post"
+          }
+        ],
+        "text": "HTML Developer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "PHP Developer",
+            "entity": "post"
+          }
+        ],
+        "text": "PHP Developer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "Animator",
+            "entity": "post"
+          }
+        ],
+        "text": "Animator"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 18,
+            "value": "Accounts executive",
+            "entity": "post"
+          }
+        ],
+        "text": "Accounts executive"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "Project Manager",
+            "entity": "post"
+          }
+        ],
+        "text": "Project Manager"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "Office boy",
+            "entity": "post"
+          }
+        ],
+        "text": "Office boy"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "Psychologist",
+            "entity": "post"
+          }
+        ],
+        "text": "Psychologist"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 6,
+            "end": 9,
+            "value": "job",
+            "entity": "user"
+          }
+        ],
+        "text": "yea a job maybe"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 12,
+            "end": 23,
+            "value": "internships",
+            "entity": "user"
+          }
+        ],
+        "text": "do you have internships?"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 3,
+            "end": 13,
+            "value": "internship",
+            "entity": "user"
+          }
+        ],
+        "text": "an internship"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 9,
+            "end": 20,
+            "value": "internships",
+            "entity": "user"
+          }
+        ],
+        "text": "you have internships?"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "branding",
+            "entity": "skills"
+          }
+        ],
+        "text": "branding"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "Brands design",
+            "entity": "post"
+          }
+        ],
+        "text": "Brands design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "branding design",
+            "entity": "post"
+          }
+        ],
+        "text": "branding design"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "UX Designer",
+            "entity": "post"
+          }
+        ],
+        "text": "UX Designer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "UX Lead",
+            "entity": "post"
+          }
+        ],
+        "text": "UX Lead"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "UI Designer",
+            "entity": "post"
+          }
+        ],
+        "text": "UI Designer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "UI Lead",
+            "entity": "post"
+          }
+        ],
+        "text": "UI Lead"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 16,
+            "value": "Graphic Designer",
+            "entity": "post"
+          }
+        ],
+        "text": "Graphic Designer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "Brand Lead",
+            "entity": "post"
+          }
+        ],
+        "text": "Brand Lead"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "Design Director",
+            "entity": "post"
+          }
+        ],
+        "text": "Design Director"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "Illustrator",
+            "entity": "post"
+          }
+        ],
+        "text": "Illustrator"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "3D Artist",
+            "entity": "post"
+          }
+        ],
+        "text": "3D Artist"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "Product Manager",
+            "entity": "post"
+          }
+        ],
+        "text": "Product Manager"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "Content Writer",
+            "entity": "post"
+          }
+        ],
+        "text": "Content Writer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 28,
+            "value": "Business Development Manager",
+            "entity": "post"
+          }
+        ],
+        "text": "Business Development Manager"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "HTML Developer",
+            "entity": "post"
+          }
+        ],
+        "text": "HTML Developer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "PHP Developer",
+            "entity": "post"
+          }
+        ],
+        "text": "PHP Developer"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "Animator",
+            "entity": "post"
+          }
+        ],
+        "text": "Animator"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 18,
+            "value": "Accounts executive",
+            "entity": "post"
+          }
+        ],
+        "text": "Accounts executive"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "Project Manager",
+            "entity": "post"
+          }
+        ],
+        "text": "Project Manager"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "Office boy",
+            "entity": "post"
+          }
+        ],
+        "text": "Office boy"
+      },
+      {
+        "intent": "job",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "Psychologist",
+            "entity": "post"
+          }
+        ],
+        "text": "Psychologist"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "Icon Design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "Icon Design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "Illustration",
+            "entity": "assignment"
+          }
+        ],
+        "text": "Illustration"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "Branding",
+            "entity": "assignment"
+          }
+        ],
+        "text": "Branding"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "Logo Design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "Logo Design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "Identity Design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "Identity Design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "Svg animation",
+            "entity": "assignment"
+          }
+        ],
+        "text": "Svg animation"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "Brochure Design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "Brochure Design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "Store Design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "Store Design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "Web Design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "Web Design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "Website Design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "Website Design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "Brand Audit",
+            "entity": "assignment"
+          }
+        ],
+        "text": "Brand Audit"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "Graphic Design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "Graphic Design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "UX & UI Design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "UX & UI Design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "UX Design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "UX Design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "UI Design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "UI Design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "Visual Design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "Visual Design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "Icon Design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "Icon Design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "Illustration",
+            "entity": "assignment"
+          }
+        ],
+        "text": "Illustration"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "Svg animation",
+            "entity": "assignment"
+          }
+        ],
+        "text": "Svg animation"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 16,
+            "value": "Packaging Design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "Packaging Design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "Web Design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "Web Design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "Website Design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "Website Design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "App Design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "App Design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "Software Design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "Software Design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "UX Audit",
+            "entity": "assignment"
+          }
+        ],
+        "text": "UX Audit"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "UX Research",
+            "entity": "assignment"
+          }
+        ],
+        "text": "UX Research"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "UX Strategy",
+            "entity": "assignment"
+          }
+        ],
+        "text": "UX Strategy"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 18,
+            "value": "Interaction Design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "Interaction Design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 4,
+            "end": 12,
+            "value": "branding",
+            "entity": "assignment"
+          }
+        ],
+        "text": "umm branding i guess"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "client",
+            "entity": "user"
+          }
+        ],
+        "text": "client"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 8,
+            "end": 14,
+            "value": "client",
+            "entity": "user"
+          }
+        ],
+        "text": "no im a client"
+      },
+      {
+        "intent": "client",
+        "text": "give you a project"
+      },
+      {
+        "intent": "client",
+        "text": "i'd like to use services you provide"
+      },
+      {
+        "intent": "client",
+        "text": "looking for a project development"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 24,
+            "end": 27,
+            "value": "app",
+            "entity": "assignment"
+          }
+        ],
+        "text": "can you help me with my app"
+      },
+      {
+        "intent": "client",
+        "text": "i have an assignment for you"
+      },
+      {
+        "intent": "client",
+        "text": "i have a job for you"
+      },
+      {
+        "intent": "client",
+        "text": "can you do a job for me?"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 7,
+            "end": 17,
+            "value": "app design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "its an app design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 10,
+            "end": 24,
+            "value": "website design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "make me a website design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 10,
+            "end": 15,
+            "value": "ui/ux",
+            "entity": "assignment"
+          }
+        ],
+        "text": "change my ui/ux"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 17,
+            "end": 25,
+            "value": "branding",
+            "entity": "assignment"
+          }
+        ],
+        "text": "i need help with branding"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 25,
+            "end": 38,
+            "value": "logo branding",
+            "entity": "assignment"
+          }
+        ],
+        "text": "ill need assistance with logo branding"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 30,
+            "end": 41,
+            "value": "logo design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "well be looking for help with logo design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 29,
+            "end": 31,
+            "value": "ux",
+            "entity": "assignment"
+          }
+        ],
+        "text": "we're looking forward for an ux design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 26,
+            "end": 28,
+            "value": "ui",
+            "entity": "assignment"
+          }
+        ],
+        "text": "so can you assist us with ui design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 18,
+            "end": 26,
+            "value": "branding",
+            "entity": "assignment"
+          }
+        ],
+        "text": "are you guys into branding?"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "brand",
+            "entity": "assignment"
+          }
+        ],
+        "text": "brand me"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "branding",
+            "entity": "assignment"
+          }
+        ],
+        "text": "branding"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "brands design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "brands design"
+      },
+      {
+        "intent": "client",
+        "text": "im a client"
+      },
+      {
+        "intent": "client",
+        "text": "help me with a project"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 30,
+            "end": 41,
+            "value": "logo design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "im looking for some help with logo design"
+      },
+      {
+        "intent": "client",
+        "text": "i need a job done"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 10,
+            "end": 23,
+            "value": "logo designed",
+            "entity": "assignment"
+          }
+        ],
+        "text": "i need my logo designed"
+      },
+      {
+        "intent": "client",
+        "text": "i have some requirements you could fullfil"
+      },
+      {
+        "intent": "client",
+        "text": "can you do a job for me?"
+      },
+      {
+        "intent": "client",
+        "text": "just do a job for me"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 16,
+            "end": 23,
+            "value": "website",
+            "entity": "assignment"
+          }
+        ],
+        "text": "i have to get a website made"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 13,
+            "end": 29,
+            "value": "website designed",
+            "entity": "assignment"
+          }
+        ],
+        "text": "can i get my website designed ?"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 15,
+            "end": 25,
+            "value": "mobile app",
+            "entity": "assignment"
+          }
+        ],
+        "text": "can you make a mobile app for me?"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 12,
+            "end": 16,
+            "value": "apps",
+            "entity": "assignment"
+          }
+        ],
+        "text": "do you make apps?"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 13,
+            "end": 24,
+            "value": "application",
+            "entity": "assignment"
+          }
+        ],
+        "text": "can i get an application made?"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 26,
+            "end": 29,
+            "value": "app",
+            "entity": "assignment"
+          }
+        ],
+        "text": "are you good at making an app?"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 27,
+            "end": 41,
+            "value": "logo designing",
+            "entity": "assignment"
+          }
+        ],
+        "text": "my company needs help with logo designing"
+      },
+      {
+        "intent": "client",
+        "text": "can you do [brand designing] for my company?"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 13,
+            "end": 26,
+            "value": "svg animation",
+            "entity": "assignment"
+          }
+        ],
+        "text": "help us with svg animation"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 25,
+            "end": 34,
+            "value": "ui design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "could use some help with ui design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 13,
+            "end": 22,
+            "value": "ux design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "i need a new ux design for my website"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 3,
+            "end": 11,
+            "value": "websites",
+            "entity": "assignment"
+          }
+        ],
+        "text": "my websites interface is old can you make me a new one?"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 7,
+            "end": 11,
+            "value": "icon",
+            "entity": "assignment"
+          }
+        ],
+        "text": "my app icon needs to be changed."
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 28,
+            "end": 36,
+            "value": "branding",
+            "entity": "assignment"
+          }
+        ],
+        "text": "i would like you to do this branding job for me."
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "icon design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "icon design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "illustration",
+            "entity": "assignment"
+          }
+        ],
+        "text": "illustration"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "branding",
+            "entity": "assignment"
+          }
+        ],
+        "text": "branding"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "logo design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "logo design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "identity design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "identity design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "svg animation",
+            "entity": "assignment"
+          }
+        ],
+        "text": "svg animation"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "brochure design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "brochure design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "store design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "store design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "web design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "web design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "website design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "website design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "brand audit",
+            "entity": "assignment"
+          }
+        ],
+        "text": "brand audit"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "graphic design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "graphic design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "ux & ui design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "ux & ui design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "ux design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "ux design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "ui design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "ui design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "visual design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "visual design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "icon design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "icon design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "illustration",
+            "entity": "assignment"
+          }
+        ],
+        "text": "illustration"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "svg animation",
+            "entity": "assignment"
+          }
+        ],
+        "text": "svg animation"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 16,
+            "value": "packaging design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "packaging design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "web design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "web design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "website design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "website design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "app design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "app design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "software design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "software design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "ux audit",
+            "entity": "assignment"
+          }
+        ],
+        "text": "ux audit"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "ux research",
+            "entity": "assignment"
+          }
+        ],
+        "text": "ux research"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "ux strategy",
+            "entity": "assignment"
+          }
+        ],
+        "text": "ux strategy"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 18,
+            "value": "interaction design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "interaction design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 4,
+            "end": 12,
+            "value": "branding",
+            "entity": "assignment"
+          }
+        ],
+        "text": "umm branding i guess"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "icon design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "icon design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "illustration",
+            "entity": "assignment"
+          }
+        ],
+        "text": "illustration"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "branding",
+            "entity": "assignment"
+          }
+        ],
+        "text": "branding"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "logo design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "logo design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "identity design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "identity design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "svg animation",
+            "entity": "assignment"
+          }
+        ],
+        "text": "svg animation"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "brochure design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "brochure design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "store design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "store design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "web design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "web design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "website design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "website design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "brand audit",
+            "entity": "assignment"
+          }
+        ],
+        "text": "brand audit"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "graphic design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "graphic design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "ux & ui design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "ux & ui design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "ux design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "ux design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "ui design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "ui design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "visual design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "visual design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "icon design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "icon design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "illustration",
+            "entity": "assignment"
+          }
+        ],
+        "text": "illustration"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "svg animation",
+            "entity": "assignment"
+          }
+        ],
+        "text": "svg animation"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 16,
+            "value": "packaging design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "packaging design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "web design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "web design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "website design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "website design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "app design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "app design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "software design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "software design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "ux audit",
+            "entity": "assignment"
+          }
+        ],
+        "text": "ux audit"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "ux research",
+            "entity": "assignment"
+          }
+        ],
+        "text": "ux research"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "ux strategy",
+            "entity": "assignment"
+          }
+        ],
+        "text": "ux strategy"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 18,
+            "value": "interaction design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "interaction design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 4,
+            "end": 12,
+            "value": "branding",
+            "entity": "assignment"
+          }
+        ],
+        "text": "umm branding i guess"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "logo Designs",
+            "entity": "assignment"
+          }
+        ],
+        "text": "logo Designs"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "logo designed",
+            "entity": "assignment"
+          }
+        ],
+        "text": "logo designed"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "logos designed",
+            "entity": "assignment"
+          }
+        ],
+        "text": "logos designed"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "brand design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "brand design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "brands design",
+            "entity": "assignment"
+          }
+        ],
+        "text": "brands design"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "brand Designs",
+            "entity": "assignment"
+          }
+        ],
+        "text": "brand Designs"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "svg animations",
+            "entity": "assignment"
+          }
+        ],
+        "text": "svg animations"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "animations",
+            "entity": "assignment"
+          }
+        ],
+        "text": "animations"
+      },
+      {
+        "intent": "client",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "audit",
+            "entity": "assignment"
+          }
+        ],
+        "text": "audit"
+      }
+    ],
+    "regex_features": [
+      {
+        "name": "PERSON",
+        "pattern": "[a-zA-Z](PERSON)"
+      },
+      {
+        "name": "contact",
+        "pattern": "[0-9]{10}"
+      },
+      {
+        "name": "contact",
+        "pattern": "[\\\\]@[\\\\s].com"
+      }
+    ],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
